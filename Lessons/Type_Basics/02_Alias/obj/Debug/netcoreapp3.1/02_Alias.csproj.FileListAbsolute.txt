@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\C#\Lessons\Type_Basics\02_Alias\bin\Debug\netcoreapp3.1\02_Alias.exe
+C:\Users\Admin\Desktop\C#\Lessons\Type_Basics\02_Alias\bin\Debug\netcoreapp3.1\02_Alias.deps.json
+C:\Users\Admin\Desktop\C#\Lessons\Type_Basics\02_Alias\bin\Debug\netcoreapp3.1\02_Alias.runtimeconfig.json
+C:\Users\Admin\Desktop\C#\Lessons\Type_Basics\02_Alias\bin\Debug\netcoreapp3.1\02_Alias.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\C#\Lessons\Type_Basics\02_Alias\bin\Debug\netcoreapp3.1\02_Alias.dll
+C:\Users\Admin\Desktop\C#\Lessons\Type_Basics\02_Alias\bin\Debug\netcoreapp3.1\02_Alias.pdb
+C:\Users\Admin\Desktop\C#\Lessons\Type_Basics\02_Alias\obj\Debug\netcoreapp3.1\02_Alias.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\C#\Lessons\Type_Basics\02_Alias\obj\Debug\netcoreapp3.1\02_Alias.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C#\Lessons\Type_Basics\02_Alias\obj\Debug\netcoreapp3.1\02_Alias.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C#\Lessons\Type_Basics\02_Alias\obj\Debug\netcoreapp3.1\02_Alias.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\Lessons\Type_Basics\02_Alias\obj\Debug\netcoreapp3.1\02_Alias.dll
+C:\Users\Admin\Desktop\C#\Lessons\Type_Basics\02_Alias\obj\Debug\netcoreapp3.1\02_Alias.pdb
+C:\Users\Admin\Desktop\C#\Lessons\Type_Basics\02_Alias\obj\Debug\netcoreapp3.1\02_Alias.genruntimeconfig.cache
