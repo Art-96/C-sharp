@@ -1,0 +1,4 @@
+C:\Users\Admin\Desktop\C#\Lessons\TypeBasics_2\ConsoleApp7\obj\Debug\netcoreapp3.1\08_Assignment.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\C#\Lessons\TypeBasics_2\ConsoleApp7\obj\Debug\netcoreapp3.1\08_Assignment.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C#\Lessons\TypeBasics_2\ConsoleApp7\obj\Debug\netcoreapp3.1\08_Assignment.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C#\Lessons\TypeBasics_2\ConsoleApp7\obj\Debug\netcoreapp3.1\08_Assignment.csproj.CoreCompileInputs.cache

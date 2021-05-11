@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\C#\Lessons\TypeBasics_2\ConsoleApp16\bin\Debug\netcoreapp3.1\16_FlagFormating.exe
+C:\Users\Admin\Desktop\C#\Lessons\TypeBasics_2\ConsoleApp16\bin\Debug\netcoreapp3.1\16_FlagFormating.deps.json
+C:\Users\Admin\Desktop\C#\Lessons\TypeBasics_2\ConsoleApp16\bin\Debug\netcoreapp3.1\16_FlagFormating.runtimeconfig.json
+C:\Users\Admin\Desktop\C#\Lessons\TypeBasics_2\ConsoleApp16\bin\Debug\netcoreapp3.1\16_FlagFormating.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\C#\Lessons\TypeBasics_2\ConsoleApp16\bin\Debug\netcoreapp3.1\16_FlagFormating.dll
+C:\Users\Admin\Desktop\C#\Lessons\TypeBasics_2\ConsoleApp16\bin\Debug\netcoreapp3.1\16_FlagFormating.pdb
+C:\Users\Admin\Desktop\C#\Lessons\TypeBasics_2\ConsoleApp16\obj\Debug\netcoreapp3.1\16_FlagFormating.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\C#\Lessons\TypeBasics_2\ConsoleApp16\obj\Debug\netcoreapp3.1\16_FlagFormating.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C#\Lessons\TypeBasics_2\ConsoleApp16\obj\Debug\netcoreapp3.1\16_FlagFormating.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C#\Lessons\TypeBasics_2\ConsoleApp16\obj\Debug\netcoreapp3.1\16_FlagFormating.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\Lessons\TypeBasics_2\ConsoleApp16\obj\Debug\netcoreapp3.1\16_FlagFormating.dll
+C:\Users\Admin\Desktop\C#\Lessons\TypeBasics_2\ConsoleApp16\obj\Debug\netcoreapp3.1\16_FlagFormating.pdb
+C:\Users\Admin\Desktop\C#\Lessons\TypeBasics_2\ConsoleApp16\obj\Debug\netcoreapp3.1\16_FlagFormating.genruntimeconfig.cache

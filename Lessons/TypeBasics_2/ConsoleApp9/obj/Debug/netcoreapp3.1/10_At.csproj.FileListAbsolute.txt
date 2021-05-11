@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\C#\Lessons\TypeBasics_2\ConsoleApp9\bin\Debug\netcoreapp3.1\10_At.exe
+C:\Users\Admin\Desktop\C#\Lessons\TypeBasics_2\ConsoleApp9\bin\Debug\netcoreapp3.1\10_At.deps.json
+C:\Users\Admin\Desktop\C#\Lessons\TypeBasics_2\ConsoleApp9\bin\Debug\netcoreapp3.1\10_At.runtimeconfig.json
+C:\Users\Admin\Desktop\C#\Lessons\TypeBasics_2\ConsoleApp9\bin\Debug\netcoreapp3.1\10_At.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\C#\Lessons\TypeBasics_2\ConsoleApp9\bin\Debug\netcoreapp3.1\10_At.dll
+C:\Users\Admin\Desktop\C#\Lessons\TypeBasics_2\ConsoleApp9\bin\Debug\netcoreapp3.1\10_At.pdb
+C:\Users\Admin\Desktop\C#\Lessons\TypeBasics_2\ConsoleApp9\obj\Debug\netcoreapp3.1\10_At.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\C#\Lessons\TypeBasics_2\ConsoleApp9\obj\Debug\netcoreapp3.1\10_At.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C#\Lessons\TypeBasics_2\ConsoleApp9\obj\Debug\netcoreapp3.1\10_At.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C#\Lessons\TypeBasics_2\ConsoleApp9\obj\Debug\netcoreapp3.1\10_At.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\Lessons\TypeBasics_2\ConsoleApp9\obj\Debug\netcoreapp3.1\10_At.dll
+C:\Users\Admin\Desktop\C#\Lessons\TypeBasics_2\ConsoleApp9\obj\Debug\netcoreapp3.1\10_At.pdb
+C:\Users\Admin\Desktop\C#\Lessons\TypeBasics_2\ConsoleApp9\obj\Debug\netcoreapp3.1\10_At.genruntimeconfig.cache
