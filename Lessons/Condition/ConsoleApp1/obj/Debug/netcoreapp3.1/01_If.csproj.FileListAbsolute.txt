@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\C#\Lessons\Condition\ConsoleApp1\bin\Debug\netcoreapp3.1\01_If.exe
+C:\Users\Admin\Desktop\C#\Lessons\Condition\ConsoleApp1\bin\Debug\netcoreapp3.1\01_If.deps.json
+C:\Users\Admin\Desktop\C#\Lessons\Condition\ConsoleApp1\bin\Debug\netcoreapp3.1\01_If.runtimeconfig.json
+C:\Users\Admin\Desktop\C#\Lessons\Condition\ConsoleApp1\bin\Debug\netcoreapp3.1\01_If.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\C#\Lessons\Condition\ConsoleApp1\bin\Debug\netcoreapp3.1\01_If.dll
+C:\Users\Admin\Desktop\C#\Lessons\Condition\ConsoleApp1\bin\Debug\netcoreapp3.1\01_If.pdb
+C:\Users\Admin\Desktop\C#\Lessons\Condition\ConsoleApp1\obj\Debug\netcoreapp3.1\01_If.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\C#\Lessons\Condition\ConsoleApp1\obj\Debug\netcoreapp3.1\01_If.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C#\Lessons\Condition\ConsoleApp1\obj\Debug\netcoreapp3.1\01_If.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C#\Lessons\Condition\ConsoleApp1\obj\Debug\netcoreapp3.1\01_If.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\Lessons\Condition\ConsoleApp1\obj\Debug\netcoreapp3.1\01_If.dll
+C:\Users\Admin\Desktop\C#\Lessons\Condition\ConsoleApp1\obj\Debug\netcoreapp3.1\01_If.pdb
+C:\Users\Admin\Desktop\C#\Lessons\Condition\ConsoleApp1\obj\Debug\netcoreapp3.1\01_If.genruntimeconfig.cache

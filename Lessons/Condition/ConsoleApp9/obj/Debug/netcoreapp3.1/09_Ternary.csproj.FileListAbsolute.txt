@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\C#\Lessons\Condition\ConsoleApp9\bin\Debug\netcoreapp3.1\09_Ternary.exe
+C:\Users\Admin\Desktop\C#\Lessons\Condition\ConsoleApp9\bin\Debug\netcoreapp3.1\09_Ternary.deps.json
+C:\Users\Admin\Desktop\C#\Lessons\Condition\ConsoleApp9\bin\Debug\netcoreapp3.1\09_Ternary.runtimeconfig.json
+C:\Users\Admin\Desktop\C#\Lessons\Condition\ConsoleApp9\bin\Debug\netcoreapp3.1\09_Ternary.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\C#\Lessons\Condition\ConsoleApp9\bin\Debug\netcoreapp3.1\09_Ternary.dll
+C:\Users\Admin\Desktop\C#\Lessons\Condition\ConsoleApp9\bin\Debug\netcoreapp3.1\09_Ternary.pdb
+C:\Users\Admin\Desktop\C#\Lessons\Condition\ConsoleApp9\obj\Debug\netcoreapp3.1\09_Ternary.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\C#\Lessons\Condition\ConsoleApp9\obj\Debug\netcoreapp3.1\09_Ternary.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C#\Lessons\Condition\ConsoleApp9\obj\Debug\netcoreapp3.1\09_Ternary.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C#\Lessons\Condition\ConsoleApp9\obj\Debug\netcoreapp3.1\09_Ternary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\Lessons\Condition\ConsoleApp9\obj\Debug\netcoreapp3.1\09_Ternary.dll
+C:\Users\Admin\Desktop\C#\Lessons\Condition\ConsoleApp9\obj\Debug\netcoreapp3.1\09_Ternary.pdb
+C:\Users\Admin\Desktop\C#\Lessons\Condition\ConsoleApp9\obj\Debug\netcoreapp3.1\09_Ternary.genruntimeconfig.cache
