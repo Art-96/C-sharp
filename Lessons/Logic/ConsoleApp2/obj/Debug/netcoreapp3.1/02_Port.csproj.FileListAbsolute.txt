@@ -1,0 +1,13 @@
+C:\Users\artur\Desktop\C#\Lessons\Logic\ConsoleApp2\bin\Debug\netcoreapp3.1\02_Port.exe
+C:\Users\artur\Desktop\C#\Lessons\Logic\ConsoleApp2\bin\Debug\netcoreapp3.1\02_Port.deps.json
+C:\Users\artur\Desktop\C#\Lessons\Logic\ConsoleApp2\bin\Debug\netcoreapp3.1\02_Port.runtimeconfig.json
+C:\Users\artur\Desktop\C#\Lessons\Logic\ConsoleApp2\bin\Debug\netcoreapp3.1\02_Port.runtimeconfig.dev.json
+C:\Users\artur\Desktop\C#\Lessons\Logic\ConsoleApp2\bin\Debug\netcoreapp3.1\02_Port.dll
+C:\Users\artur\Desktop\C#\Lessons\Logic\ConsoleApp2\bin\Debug\netcoreapp3.1\02_Port.pdb
+C:\Users\artur\Desktop\C#\Lessons\Logic\ConsoleApp2\obj\Debug\netcoreapp3.1\02_Port.csprojAssemblyReference.cache
+C:\Users\artur\Desktop\C#\Lessons\Logic\ConsoleApp2\obj\Debug\netcoreapp3.1\02_Port.AssemblyInfoInputs.cache
+C:\Users\artur\Desktop\C#\Lessons\Logic\ConsoleApp2\obj\Debug\netcoreapp3.1\02_Port.AssemblyInfo.cs
+C:\Users\artur\Desktop\C#\Lessons\Logic\ConsoleApp2\obj\Debug\netcoreapp3.1\02_Port.csproj.CoreCompileInputs.cache
+C:\Users\artur\Desktop\C#\Lessons\Logic\ConsoleApp2\obj\Debug\netcoreapp3.1\02_Port.dll
+C:\Users\artur\Desktop\C#\Lessons\Logic\ConsoleApp2\obj\Debug\netcoreapp3.1\02_Port.pdb
+C:\Users\artur\Desktop\C#\Lessons\Logic\ConsoleApp2\obj\Debug\netcoreapp3.1\02_Port.genruntimeconfig.cache

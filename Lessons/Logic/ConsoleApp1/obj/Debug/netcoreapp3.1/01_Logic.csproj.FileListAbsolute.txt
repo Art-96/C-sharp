@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\C#\Lessons\Logic\ConsoleApp1\bin\Debug\netcoreapp3.1\01_Logic.exe
+C:\Users\Admin\Desktop\C#\Lessons\Logic\ConsoleApp1\bin\Debug\netcoreapp3.1\01_Logic.deps.json
+C:\Users\Admin\Desktop\C#\Lessons\Logic\ConsoleApp1\bin\Debug\netcoreapp3.1\01_Logic.runtimeconfig.json
+C:\Users\Admin\Desktop\C#\Lessons\Logic\ConsoleApp1\bin\Debug\netcoreapp3.1\01_Logic.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\C#\Lessons\Logic\ConsoleApp1\bin\Debug\netcoreapp3.1\01_Logic.dll
+C:\Users\Admin\Desktop\C#\Lessons\Logic\ConsoleApp1\bin\Debug\netcoreapp3.1\01_Logic.pdb
+C:\Users\Admin\Desktop\C#\Lessons\Logic\ConsoleApp1\obj\Debug\netcoreapp3.1\01_Logic.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\C#\Lessons\Logic\ConsoleApp1\obj\Debug\netcoreapp3.1\01_Logic.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C#\Lessons\Logic\ConsoleApp1\obj\Debug\netcoreapp3.1\01_Logic.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C#\Lessons\Logic\ConsoleApp1\obj\Debug\netcoreapp3.1\01_Logic.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\Lessons\Logic\ConsoleApp1\obj\Debug\netcoreapp3.1\01_Logic.dll
+C:\Users\Admin\Desktop\C#\Lessons\Logic\ConsoleApp1\obj\Debug\netcoreapp3.1\01_Logic.pdb
+C:\Users\Admin\Desktop\C#\Lessons\Logic\ConsoleApp1\obj\Debug\netcoreapp3.1\01_Logic.genruntimeconfig.cache
