@@ -1,0 +1,16 @@
+C:\Users\artur\OneDrive\Desktop\C#\OOP\001_Classes\Classes\Constructors_03\bin\Debug\net5.0\Constructors_03.exe
+C:\Users\artur\OneDrive\Desktop\C#\OOP\001_Classes\Classes\Constructors_03\bin\Debug\net5.0\Constructors_03.deps.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\001_Classes\Classes\Constructors_03\bin\Debug\net5.0\Constructors_03.runtimeconfig.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\001_Classes\Classes\Constructors_03\bin\Debug\net5.0\Constructors_03.runtimeconfig.dev.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\001_Classes\Classes\Constructors_03\bin\Debug\net5.0\Constructors_03.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\001_Classes\Classes\Constructors_03\bin\Debug\net5.0\ref\Constructors_03.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\001_Classes\Classes\Constructors_03\bin\Debug\net5.0\Constructors_03.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\001_Classes\Classes\Constructors_03\obj\Debug\net5.0\Constructors_03.csproj.AssemblyReference.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\001_Classes\Classes\Constructors_03\obj\Debug\net5.0\Constructors_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\OneDrive\Desktop\C#\OOP\001_Classes\Classes\Constructors_03\obj\Debug\net5.0\Constructors_03.AssemblyInfoInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\001_Classes\Classes\Constructors_03\obj\Debug\net5.0\Constructors_03.AssemblyInfo.cs
+C:\Users\artur\OneDrive\Desktop\C#\OOP\001_Classes\Classes\Constructors_03\obj\Debug\net5.0\Constructors_03.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\001_Classes\Classes\Constructors_03\obj\Debug\net5.0\Constructors_03.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\001_Classes\Classes\Constructors_03\obj\Debug\net5.0\ref\Constructors_03.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\001_Classes\Classes\Constructors_03\obj\Debug\net5.0\Constructors_03.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\001_Classes\Classes\Constructors_03\obj\Debug\net5.0\Constructors_03.genruntimeconfig.cache
