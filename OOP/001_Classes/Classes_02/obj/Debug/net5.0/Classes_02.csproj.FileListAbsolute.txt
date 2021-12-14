@@ -1,0 +1,15 @@
+C:\Users\artur\OneDrive\Desktop\C#\OOP\001_Classes\Classes_02\bin\Debug\net5.0\Classes_02.exe
+C:\Users\artur\OneDrive\Desktop\C#\OOP\001_Classes\Classes_02\bin\Debug\net5.0\Classes_02.deps.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\001_Classes\Classes_02\bin\Debug\net5.0\Classes_02.runtimeconfig.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\001_Classes\Classes_02\bin\Debug\net5.0\Classes_02.runtimeconfig.dev.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\001_Classes\Classes_02\bin\Debug\net5.0\Classes_02.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\001_Classes\Classes_02\bin\Debug\net5.0\ref\Classes_02.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\001_Classes\Classes_02\bin\Debug\net5.0\Classes_02.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\001_Classes\Classes_02\obj\Debug\net5.0\Classes_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\OneDrive\Desktop\C#\OOP\001_Classes\Classes_02\obj\Debug\net5.0\Classes_02.AssemblyInfoInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\001_Classes\Classes_02\obj\Debug\net5.0\Classes_02.AssemblyInfo.cs
+C:\Users\artur\OneDrive\Desktop\C#\OOP\001_Classes\Classes_02\obj\Debug\net5.0\Classes_02.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\001_Classes\Classes_02\obj\Debug\net5.0\Classes_02.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\001_Classes\Classes_02\obj\Debug\net5.0\ref\Classes_02.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\001_Classes\Classes_02\obj\Debug\net5.0\Classes_02.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\001_Classes\Classes_02\obj\Debug\net5.0\Classes_02.genruntimeconfig.cache

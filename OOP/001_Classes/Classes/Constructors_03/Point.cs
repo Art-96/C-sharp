@@ -31,7 +31,7 @@ namespace Constructors_03
         }
 
         // Constructors
-        // Using this keyword in the constructor with one parameter from the 43rd string,
+        // Using this keyword in the constructor with one parameter from the 45rd string,
         // leads to call this designer.
         public Point(int x, int y)
         {
@@ -40,7 +40,7 @@ namespace Constructors_03
             this.y = y;
         }
 
-        // Using this keyword in the constructor leads to a constructor call with two parameters from the 35th line.
+        // Using this keyword in the constructor leads to a constructor call with two parameters from the 36th line.
         public Point(string name)
             : this(100, 200)
         {
