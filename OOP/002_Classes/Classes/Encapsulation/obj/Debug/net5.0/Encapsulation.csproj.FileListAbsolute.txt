@@ -1,0 +1,16 @@
+C:\Users\artur\OneDrive\Desktop\C#\OOP\002_Classes\Classes\Encapsulation\bin\Debug\net5.0\Encapsulation.exe
+C:\Users\artur\OneDrive\Desktop\C#\OOP\002_Classes\Classes\Encapsulation\bin\Debug\net5.0\Encapsulation.deps.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\002_Classes\Classes\Encapsulation\bin\Debug\net5.0\Encapsulation.runtimeconfig.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\002_Classes\Classes\Encapsulation\bin\Debug\net5.0\Encapsulation.runtimeconfig.dev.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\002_Classes\Classes\Encapsulation\bin\Debug\net5.0\Encapsulation.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\002_Classes\Classes\Encapsulation\bin\Debug\net5.0\ref\Encapsulation.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\002_Classes\Classes\Encapsulation\bin\Debug\net5.0\Encapsulation.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\002_Classes\Classes\Encapsulation\obj\Debug\net5.0\Encapsulation.csproj.AssemblyReference.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\002_Classes\Classes\Encapsulation\obj\Debug\net5.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\OneDrive\Desktop\C#\OOP\002_Classes\Classes\Encapsulation\obj\Debug\net5.0\Encapsulation.AssemblyInfoInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\002_Classes\Classes\Encapsulation\obj\Debug\net5.0\Encapsulation.AssemblyInfo.cs
+C:\Users\artur\OneDrive\Desktop\C#\OOP\002_Classes\Classes\Encapsulation\obj\Debug\net5.0\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\002_Classes\Classes\Encapsulation\obj\Debug\net5.0\Encapsulation.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\002_Classes\Classes\Encapsulation\obj\Debug\net5.0\ref\Encapsulation.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\002_Classes\Classes\Encapsulation\obj\Debug\net5.0\Encapsulation.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\002_Classes\Classes\Encapsulation\obj\Debug\net5.0\Encapsulation.genruntimeconfig.cache
