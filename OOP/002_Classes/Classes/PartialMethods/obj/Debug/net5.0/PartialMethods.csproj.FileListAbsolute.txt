@@ -1,0 +1,16 @@
+C:\Users\artur\OneDrive\Desktop\C#\OOP\002_Classes\Classes\PartialMethods\bin\Debug\net5.0\PartialMethods.exe
+C:\Users\artur\OneDrive\Desktop\C#\OOP\002_Classes\Classes\PartialMethods\bin\Debug\net5.0\PartialMethods.deps.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\002_Classes\Classes\PartialMethods\bin\Debug\net5.0\PartialMethods.runtimeconfig.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\002_Classes\Classes\PartialMethods\bin\Debug\net5.0\PartialMethods.runtimeconfig.dev.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\002_Classes\Classes\PartialMethods\bin\Debug\net5.0\PartialMethods.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\002_Classes\Classes\PartialMethods\bin\Debug\net5.0\ref\PartialMethods.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\002_Classes\Classes\PartialMethods\bin\Debug\net5.0\PartialMethods.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\002_Classes\Classes\PartialMethods\obj\Debug\net5.0\PartialMethods.csproj.AssemblyReference.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\002_Classes\Classes\PartialMethods\obj\Debug\net5.0\PartialMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\OneDrive\Desktop\C#\OOP\002_Classes\Classes\PartialMethods\obj\Debug\net5.0\PartialMethods.AssemblyInfoInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\002_Classes\Classes\PartialMethods\obj\Debug\net5.0\PartialMethods.AssemblyInfo.cs
+C:\Users\artur\OneDrive\Desktop\C#\OOP\002_Classes\Classes\PartialMethods\obj\Debug\net5.0\PartialMethods.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\002_Classes\Classes\PartialMethods\obj\Debug\net5.0\PartialMethods.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\002_Classes\Classes\PartialMethods\obj\Debug\net5.0\ref\PartialMethods.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\002_Classes\Classes\PartialMethods\obj\Debug\net5.0\PartialMethods.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\002_Classes\Classes\PartialMethods\obj\Debug\net5.0\PartialMethods.genruntimeconfig.cache

@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartialClasses", "PartialClasses\PartialClasses.csproj", "{54C41630-C565-4511-B568-C7FFD63B9598}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartialMethods", "PartialMethods\PartialMethods.csproj", "{976B8900-F384-4169-83C5-0A593035851B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{54C41630-C565-4511-B568-C7FFD63B9598}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54C41630-C565-4511-B568-C7FFD63B9598}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54C41630-C565-4511-B568-C7FFD63B9598}.Release|Any CPU.Build.0 = Release|Any CPU
+		{976B8900-F384-4169-83C5-0A593035851B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{976B8900-F384-4169-83C5-0A593035851B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{976B8900-F384-4169-83C5-0A593035851B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{976B8900-F384-4169-83C5-0A593035851B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
