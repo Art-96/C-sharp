@@ -1,0 +1,15 @@
+C:\Users\artur\OneDrive\Desktop\C#\OOP\002_Classes\Classes\SelfAssociation\bin\Debug\net5.0\SelfAssociation.exe
+C:\Users\artur\OneDrive\Desktop\C#\OOP\002_Classes\Classes\SelfAssociation\bin\Debug\net5.0\SelfAssociation.deps.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\002_Classes\Classes\SelfAssociation\bin\Debug\net5.0\SelfAssociation.runtimeconfig.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\002_Classes\Classes\SelfAssociation\bin\Debug\net5.0\SelfAssociation.runtimeconfig.dev.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\002_Classes\Classes\SelfAssociation\bin\Debug\net5.0\SelfAssociation.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\002_Classes\Classes\SelfAssociation\bin\Debug\net5.0\ref\SelfAssociation.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\002_Classes\Classes\SelfAssociation\bin\Debug\net5.0\SelfAssociation.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\002_Classes\Classes\SelfAssociation\obj\Debug\net5.0\SelfAssociation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\OneDrive\Desktop\C#\OOP\002_Classes\Classes\SelfAssociation\obj\Debug\net5.0\SelfAssociation.AssemblyInfoInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\002_Classes\Classes\SelfAssociation\obj\Debug\net5.0\SelfAssociation.AssemblyInfo.cs
+C:\Users\artur\OneDrive\Desktop\C#\OOP\002_Classes\Classes\SelfAssociation\obj\Debug\net5.0\SelfAssociation.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\002_Classes\Classes\SelfAssociation\obj\Debug\net5.0\SelfAssociation.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\002_Classes\Classes\SelfAssociation\obj\Debug\net5.0\ref\SelfAssociation.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\002_Classes\Classes\SelfAssociation\obj\Debug\net5.0\SelfAssociation.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\002_Classes\Classes\SelfAssociation\obj\Debug\net5.0\SelfAssociation.genruntimeconfig.cache
