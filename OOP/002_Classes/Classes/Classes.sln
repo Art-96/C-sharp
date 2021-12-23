@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Readonly", "Readonly\Readon
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelfAssociation", "SelfAssociation\SelfAssociation.csproj", "{E0FE3147-5586-41B0-A573-75434A1C91D7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelfAssociation_02", "SelfAssociation_02\SelfAssociation_02.csproj", "{69C01B7E-C8D6-450C-BE2E-90BB3DBB155B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{E0FE3147-5586-41B0-A573-75434A1C91D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0FE3147-5586-41B0-A573-75434A1C91D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0FE3147-5586-41B0-A573-75434A1C91D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69C01B7E-C8D6-450C-BE2E-90BB3DBB155B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69C01B7E-C8D6-450C-BE2E-90BB3DBB155B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69C01B7E-C8D6-450C-BE2E-90BB3DBB155B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69C01B7E-C8D6-450C-BE2E-90BB3DBB155B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
