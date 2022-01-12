@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constructors", "Constructor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance_02", "Inheritance_02\Inheritance_02.csproj", "{9B4A95B3-111D-49A9-B486-D3A4E05FD782}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance_03", "Inheritance_03\Inheritance_03.csproj", "{3E9CEAEE-2251-4E3F-86A3-5B1986848519}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance_03", "Inheritance_03\Inheritance_03.csproj", "{3E9CEAEE-2251-4E3F-86A3-5B1986848519}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Virtual", "Virtual\Virtual.csproj", "{A9F906B9-5045-4653-B111-4AF96D699094}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{3E9CEAEE-2251-4E3F-86A3-5B1986848519}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E9CEAEE-2251-4E3F-86A3-5B1986848519}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E9CEAEE-2251-4E3F-86A3-5B1986848519}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9F906B9-5045-4653-B111-4AF96D699094}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9F906B9-5045-4653-B111-4AF96D699094}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9F906B9-5045-4653-B111-4AF96D699094}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9F906B9-5045-4653-B111-4AF96D699094}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
