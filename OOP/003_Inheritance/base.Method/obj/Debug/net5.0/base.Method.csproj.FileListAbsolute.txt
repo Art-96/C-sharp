@@ -1,0 +1,16 @@
+C:\Users\artur\OneDrive\Desktop\C#\OOP\003_Inheritance\base.Method\bin\Debug\net5.0\base.Method.exe
+C:\Users\artur\OneDrive\Desktop\C#\OOP\003_Inheritance\base.Method\bin\Debug\net5.0\base.Method.deps.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\003_Inheritance\base.Method\bin\Debug\net5.0\base.Method.runtimeconfig.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\003_Inheritance\base.Method\bin\Debug\net5.0\base.Method.runtimeconfig.dev.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\003_Inheritance\base.Method\bin\Debug\net5.0\base.Method.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\003_Inheritance\base.Method\bin\Debug\net5.0\ref\base.Method.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\003_Inheritance\base.Method\bin\Debug\net5.0\base.Method.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\003_Inheritance\base.Method\obj\Debug\net5.0\base.Method.csproj.AssemblyReference.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\003_Inheritance\base.Method\obj\Debug\net5.0\base.Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\OneDrive\Desktop\C#\OOP\003_Inheritance\base.Method\obj\Debug\net5.0\base.Method.AssemblyInfoInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\003_Inheritance\base.Method\obj\Debug\net5.0\base.Method.AssemblyInfo.cs
+C:\Users\artur\OneDrive\Desktop\C#\OOP\003_Inheritance\base.Method\obj\Debug\net5.0\base.Method.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\003_Inheritance\base.Method\obj\Debug\net5.0\base.Method.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\003_Inheritance\base.Method\obj\Debug\net5.0\ref\base.Method.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\003_Inheritance\base.Method\obj\Debug\net5.0\base.Method.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\003_Inheritance\base.Method\obj\Debug\net5.0\base.Method.genruntimeconfig.cache
