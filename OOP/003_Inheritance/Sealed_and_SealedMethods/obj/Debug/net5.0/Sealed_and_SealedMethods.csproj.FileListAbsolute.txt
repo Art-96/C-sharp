@@ -1,0 +1,15 @@
+C:\Users\artur\OneDrive\Desktop\C#\OOP\003_Inheritance\Sealed_and_SealedMethods\bin\Debug\net5.0\Sealed_and_SealedMethods.exe
+C:\Users\artur\OneDrive\Desktop\C#\OOP\003_Inheritance\Sealed_and_SealedMethods\bin\Debug\net5.0\Sealed_and_SealedMethods.deps.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\003_Inheritance\Sealed_and_SealedMethods\bin\Debug\net5.0\Sealed_and_SealedMethods.runtimeconfig.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\003_Inheritance\Sealed_and_SealedMethods\bin\Debug\net5.0\Sealed_and_SealedMethods.runtimeconfig.dev.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\003_Inheritance\Sealed_and_SealedMethods\bin\Debug\net5.0\Sealed_and_SealedMethods.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\003_Inheritance\Sealed_and_SealedMethods\bin\Debug\net5.0\ref\Sealed_and_SealedMethods.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\003_Inheritance\Sealed_and_SealedMethods\bin\Debug\net5.0\Sealed_and_SealedMethods.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\003_Inheritance\Sealed_and_SealedMethods\obj\Debug\net5.0\Sealed_and_SealedMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\OneDrive\Desktop\C#\OOP\003_Inheritance\Sealed_and_SealedMethods\obj\Debug\net5.0\Sealed_and_SealedMethods.AssemblyInfoInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\003_Inheritance\Sealed_and_SealedMethods\obj\Debug\net5.0\Sealed_and_SealedMethods.AssemblyInfo.cs
+C:\Users\artur\OneDrive\Desktop\C#\OOP\003_Inheritance\Sealed_and_SealedMethods\obj\Debug\net5.0\Sealed_and_SealedMethods.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\003_Inheritance\Sealed_and_SealedMethods\obj\Debug\net5.0\Sealed_and_SealedMethods.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\003_Inheritance\Sealed_and_SealedMethods\obj\Debug\net5.0\ref\Sealed_and_SealedMethods.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\003_Inheritance\Sealed_and_SealedMethods\obj\Debug\net5.0\Sealed_and_SealedMethods.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\003_Inheritance\Sealed_and_SealedMethods\obj\Debug\net5.0\Sealed_and_SealedMethods.genruntimeconfig.cache
