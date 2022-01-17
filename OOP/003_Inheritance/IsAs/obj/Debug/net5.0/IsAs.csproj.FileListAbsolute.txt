@@ -1,0 +1,15 @@
+C:\Users\artur\OneDrive\Desktop\C#\OOP\003_Inheritance\IsAs\bin\Debug\net5.0\IsAs.exe
+C:\Users\artur\OneDrive\Desktop\C#\OOP\003_Inheritance\IsAs\bin\Debug\net5.0\IsAs.deps.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\003_Inheritance\IsAs\bin\Debug\net5.0\IsAs.runtimeconfig.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\003_Inheritance\IsAs\bin\Debug\net5.0\IsAs.runtimeconfig.dev.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\003_Inheritance\IsAs\bin\Debug\net5.0\IsAs.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\003_Inheritance\IsAs\bin\Debug\net5.0\ref\IsAs.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\003_Inheritance\IsAs\bin\Debug\net5.0\IsAs.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\003_Inheritance\IsAs\obj\Debug\net5.0\IsAs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\OneDrive\Desktop\C#\OOP\003_Inheritance\IsAs\obj\Debug\net5.0\IsAs.AssemblyInfoInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\003_Inheritance\IsAs\obj\Debug\net5.0\IsAs.AssemblyInfo.cs
+C:\Users\artur\OneDrive\Desktop\C#\OOP\003_Inheritance\IsAs\obj\Debug\net5.0\IsAs.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\003_Inheritance\IsAs\obj\Debug\net5.0\IsAs.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\003_Inheritance\IsAs\obj\Debug\net5.0\ref\IsAs.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\003_Inheritance\IsAs\obj\Debug\net5.0\IsAs.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\003_Inheritance\IsAs\obj\Debug\net5.0\IsAs.genruntimeconfig.cache
