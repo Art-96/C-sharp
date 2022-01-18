@@ -1,0 +1,15 @@
+C:\Users\artur\OneDrive\Desktop\C#\OOP\004_Abstraction\Abstraction\02_Abstraction\bin\Debug\net5.0\02_Abstraction.exe
+C:\Users\artur\OneDrive\Desktop\C#\OOP\004_Abstraction\Abstraction\02_Abstraction\bin\Debug\net5.0\02_Abstraction.deps.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\004_Abstraction\Abstraction\02_Abstraction\bin\Debug\net5.0\02_Abstraction.runtimeconfig.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\004_Abstraction\Abstraction\02_Abstraction\bin\Debug\net5.0\02_Abstraction.runtimeconfig.dev.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\004_Abstraction\Abstraction\02_Abstraction\bin\Debug\net5.0\02_Abstraction.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\004_Abstraction\Abstraction\02_Abstraction\bin\Debug\net5.0\ref\02_Abstraction.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\004_Abstraction\Abstraction\02_Abstraction\bin\Debug\net5.0\02_Abstraction.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\004_Abstraction\Abstraction\02_Abstraction\obj\Debug\net5.0\02_Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\OneDrive\Desktop\C#\OOP\004_Abstraction\Abstraction\02_Abstraction\obj\Debug\net5.0\02_Abstraction.AssemblyInfoInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\004_Abstraction\Abstraction\02_Abstraction\obj\Debug\net5.0\02_Abstraction.AssemblyInfo.cs
+C:\Users\artur\OneDrive\Desktop\C#\OOP\004_Abstraction\Abstraction\02_Abstraction\obj\Debug\net5.0\02_Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\004_Abstraction\Abstraction\02_Abstraction\obj\Debug\net5.0\02_Abstraction.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\004_Abstraction\Abstraction\02_Abstraction\obj\Debug\net5.0\ref\02_Abstraction.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\004_Abstraction\Abstraction\02_Abstraction\obj\Debug\net5.0\02_Abstraction.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\004_Abstraction\Abstraction\02_Abstraction\obj\Debug\net5.0\02_Abstraction.genruntimeconfig.cache
