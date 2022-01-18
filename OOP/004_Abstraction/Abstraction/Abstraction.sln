@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Abstraction", "03_Abstra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Abstraction", "04_Abstraction\04_Abstraction.csproj", "{239532C8-8C33-4935-852B-14CA01519932}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_Abstraction", "05_Abstraction\05_Abstraction.csproj", "{E68997A5-67B7-49CE-9EE7-AB482C3AB4F0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{239532C8-8C33-4935-852B-14CA01519932}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{239532C8-8C33-4935-852B-14CA01519932}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{239532C8-8C33-4935-852B-14CA01519932}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E68997A5-67B7-49CE-9EE7-AB482C3AB4F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E68997A5-67B7-49CE-9EE7-AB482C3AB4F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E68997A5-67B7-49CE-9EE7-AB482C3AB4F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E68997A5-67B7-49CE-9EE7-AB482C3AB4F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
