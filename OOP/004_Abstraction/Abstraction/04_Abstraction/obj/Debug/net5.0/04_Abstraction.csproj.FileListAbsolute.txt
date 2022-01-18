@@ -1,0 +1,16 @@
+C:\Users\artur\OneDrive\Desktop\C#\OOP\004_Abstraction\Abstraction\04_Abstraction\bin\Debug\net5.0\04_Abstraction.exe
+C:\Users\artur\OneDrive\Desktop\C#\OOP\004_Abstraction\Abstraction\04_Abstraction\bin\Debug\net5.0\04_Abstraction.deps.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\004_Abstraction\Abstraction\04_Abstraction\bin\Debug\net5.0\04_Abstraction.runtimeconfig.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\004_Abstraction\Abstraction\04_Abstraction\bin\Debug\net5.0\04_Abstraction.runtimeconfig.dev.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\004_Abstraction\Abstraction\04_Abstraction\bin\Debug\net5.0\04_Abstraction.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\004_Abstraction\Abstraction\04_Abstraction\bin\Debug\net5.0\ref\04_Abstraction.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\004_Abstraction\Abstraction\04_Abstraction\bin\Debug\net5.0\04_Abstraction.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\004_Abstraction\Abstraction\04_Abstraction\obj\Debug\net5.0\04_Abstraction.csproj.AssemblyReference.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\004_Abstraction\Abstraction\04_Abstraction\obj\Debug\net5.0\04_Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\OneDrive\Desktop\C#\OOP\004_Abstraction\Abstraction\04_Abstraction\obj\Debug\net5.0\04_Abstraction.AssemblyInfoInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\004_Abstraction\Abstraction\04_Abstraction\obj\Debug\net5.0\04_Abstraction.AssemblyInfo.cs
+C:\Users\artur\OneDrive\Desktop\C#\OOP\004_Abstraction\Abstraction\04_Abstraction\obj\Debug\net5.0\04_Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\004_Abstraction\Abstraction\04_Abstraction\obj\Debug\net5.0\04_Abstraction.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\004_Abstraction\Abstraction\04_Abstraction\obj\Debug\net5.0\ref\04_Abstraction.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\004_Abstraction\Abstraction\04_Abstraction\obj\Debug\net5.0\04_Abstraction.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\004_Abstraction\Abstraction\04_Abstraction\obj\Debug\net5.0\04_Abstraction.genruntimeconfig.cache
