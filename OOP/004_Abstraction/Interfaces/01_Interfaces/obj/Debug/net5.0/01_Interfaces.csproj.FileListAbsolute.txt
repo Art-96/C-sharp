@@ -1,0 +1,16 @@
+C:\Users\artur\OneDrive\Desktop\C#\OOP\004_Abstraction\Interfaces\01_Interfaces\bin\Debug\net5.0\01_Interfaces.exe
+C:\Users\artur\OneDrive\Desktop\C#\OOP\004_Abstraction\Interfaces\01_Interfaces\bin\Debug\net5.0\01_Interfaces.deps.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\004_Abstraction\Interfaces\01_Interfaces\bin\Debug\net5.0\01_Interfaces.runtimeconfig.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\004_Abstraction\Interfaces\01_Interfaces\bin\Debug\net5.0\01_Interfaces.runtimeconfig.dev.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\004_Abstraction\Interfaces\01_Interfaces\bin\Debug\net5.0\01_Interfaces.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\004_Abstraction\Interfaces\01_Interfaces\bin\Debug\net5.0\ref\01_Interfaces.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\004_Abstraction\Interfaces\01_Interfaces\bin\Debug\net5.0\01_Interfaces.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\004_Abstraction\Interfaces\01_Interfaces\obj\Debug\net5.0\01_Interfaces.csproj.AssemblyReference.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\004_Abstraction\Interfaces\01_Interfaces\obj\Debug\net5.0\01_Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\OneDrive\Desktop\C#\OOP\004_Abstraction\Interfaces\01_Interfaces\obj\Debug\net5.0\01_Interfaces.AssemblyInfoInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\004_Abstraction\Interfaces\01_Interfaces\obj\Debug\net5.0\01_Interfaces.AssemblyInfo.cs
+C:\Users\artur\OneDrive\Desktop\C#\OOP\004_Abstraction\Interfaces\01_Interfaces\obj\Debug\net5.0\01_Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\004_Abstraction\Interfaces\01_Interfaces\obj\Debug\net5.0\01_Interfaces.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\004_Abstraction\Interfaces\01_Interfaces\obj\Debug\net5.0\ref\01_Interfaces.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\004_Abstraction\Interfaces\01_Interfaces\obj\Debug\net5.0\01_Interfaces.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\004_Abstraction\Interfaces\01_Interfaces\obj\Debug\net5.0\01_Interfaces.genruntimeconfig.cache
