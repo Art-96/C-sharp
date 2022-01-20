@@ -1,0 +1,15 @@
+C:\Users\artur\OneDrive\Desktop\C#\OOP\004_Abstraction\Interfaces\08_Interfaces\obj\Debug\net5.0\08_Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\OneDrive\Desktop\C#\OOP\004_Abstraction\Interfaces\08_Interfaces\obj\Debug\net5.0\08_Interfaces.AssemblyInfoInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\004_Abstraction\Interfaces\08_Interfaces\obj\Debug\net5.0\08_Interfaces.AssemblyInfo.cs
+C:\Users\artur\OneDrive\Desktop\C#\OOP\004_Abstraction\Interfaces\08_Interfaces\obj\Debug\net5.0\08_Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\004_Abstraction\Interfaces\08_Interfaces\bin\Debug\net5.0\08_Interfaces.exe
+C:\Users\artur\OneDrive\Desktop\C#\OOP\004_Abstraction\Interfaces\08_Interfaces\bin\Debug\net5.0\08_Interfaces.deps.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\004_Abstraction\Interfaces\08_Interfaces\bin\Debug\net5.0\08_Interfaces.runtimeconfig.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\004_Abstraction\Interfaces\08_Interfaces\bin\Debug\net5.0\08_Interfaces.runtimeconfig.dev.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\004_Abstraction\Interfaces\08_Interfaces\bin\Debug\net5.0\08_Interfaces.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\004_Abstraction\Interfaces\08_Interfaces\bin\Debug\net5.0\ref\08_Interfaces.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\004_Abstraction\Interfaces\08_Interfaces\bin\Debug\net5.0\08_Interfaces.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\004_Abstraction\Interfaces\08_Interfaces\obj\Debug\net5.0\08_Interfaces.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\004_Abstraction\Interfaces\08_Interfaces\obj\Debug\net5.0\ref\08_Interfaces.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\004_Abstraction\Interfaces\08_Interfaces\obj\Debug\net5.0\08_Interfaces.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\004_Abstraction\Interfaces\08_Interfaces\obj\Debug\net5.0\08_Interfaces.genruntimeconfig.cache
