@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_ArrayMultiDim", "03_Arra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Jagged", "04_Jagged\04_Jagged.csproj", "{AE5F9DCC-10C2-4D60-9EC5-882B92117D1C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_ClassArray", "05_ClassArray\05_ClassArray.csproj", "{75208EDC-9608-41E1-8B71-8EFAB4E101C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{AE5F9DCC-10C2-4D60-9EC5-882B92117D1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE5F9DCC-10C2-4D60-9EC5-882B92117D1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE5F9DCC-10C2-4D60-9EC5-882B92117D1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75208EDC-9608-41E1-8B71-8EFAB4E101C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75208EDC-9608-41E1-8B71-8EFAB4E101C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75208EDC-9608-41E1-8B71-8EFAB4E101C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75208EDC-9608-41E1-8B71-8EFAB4E101C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
