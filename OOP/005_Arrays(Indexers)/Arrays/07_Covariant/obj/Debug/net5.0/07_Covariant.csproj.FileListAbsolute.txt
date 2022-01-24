@@ -1,0 +1,15 @@
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\07_Covariant\bin\Debug\net5.0\07_Covariant.exe
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\07_Covariant\bin\Debug\net5.0\07_Covariant.deps.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\07_Covariant\bin\Debug\net5.0\07_Covariant.runtimeconfig.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\07_Covariant\bin\Debug\net5.0\07_Covariant.runtimeconfig.dev.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\07_Covariant\bin\Debug\net5.0\07_Covariant.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\07_Covariant\bin\Debug\net5.0\ref\07_Covariant.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\07_Covariant\bin\Debug\net5.0\07_Covariant.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\07_Covariant\obj\Debug\net5.0\07_Covariant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\07_Covariant\obj\Debug\net5.0\07_Covariant.AssemblyInfoInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\07_Covariant\obj\Debug\net5.0\07_Covariant.AssemblyInfo.cs
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\07_Covariant\obj\Debug\net5.0\07_Covariant.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\07_Covariant\obj\Debug\net5.0\07_Covariant.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\07_Covariant\obj\Debug\net5.0\ref\07_Covariant.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\07_Covariant\obj\Debug\net5.0\07_Covariant.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\07_Covariant\obj\Debug\net5.0\07_Covariant.genruntimeconfig.cache
