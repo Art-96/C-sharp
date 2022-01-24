@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_VarArrays", "06_VarArray
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_Covariant", "07_Covariant\07_Covariant.csproj", "{0132B233-8890-4B1A-84A7-6185BF9E7210}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_Params", "08_Params\08_Params.csproj", "{2741B8F6-9F6C-4B8E-B2BD-D19A38076FA3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{0132B233-8890-4B1A-84A7-6185BF9E7210}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0132B233-8890-4B1A-84A7-6185BF9E7210}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0132B233-8890-4B1A-84A7-6185BF9E7210}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2741B8F6-9F6C-4B8E-B2BD-D19A38076FA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2741B8F6-9F6C-4B8E-B2BD-D19A38076FA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2741B8F6-9F6C-4B8E-B2BD-D19A38076FA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2741B8F6-9F6C-4B8E-B2BD-D19A38076FA3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\08_Params\bin\Debug\net5.0\08_Params.exe
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\08_Params\bin\Debug\net5.0\08_Params.deps.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\08_Params\bin\Debug\net5.0\08_Params.runtimeconfig.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\08_Params\bin\Debug\net5.0\08_Params.runtimeconfig.dev.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\08_Params\bin\Debug\net5.0\08_Params.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\08_Params\bin\Debug\net5.0\ref\08_Params.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\08_Params\bin\Debug\net5.0\08_Params.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\08_Params\obj\Debug\net5.0\08_Params.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\08_Params\obj\Debug\net5.0\08_Params.AssemblyInfoInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\08_Params\obj\Debug\net5.0\08_Params.AssemblyInfo.cs
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\08_Params\obj\Debug\net5.0\08_Params.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\08_Params\obj\Debug\net5.0\08_Params.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\08_Params\obj\Debug\net5.0\ref\08_Params.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\08_Params\obj\Debug\net5.0\08_Params.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\08_Params\obj\Debug\net5.0\08_Params.genruntimeconfig.cache
