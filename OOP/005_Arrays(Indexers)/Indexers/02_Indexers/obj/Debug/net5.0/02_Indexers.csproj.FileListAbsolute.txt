@@ -1,0 +1,16 @@
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Indexers\02_Indexers\bin\Debug\net5.0\02_Indexers.exe
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Indexers\02_Indexers\bin\Debug\net5.0\02_Indexers.deps.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Indexers\02_Indexers\bin\Debug\net5.0\02_Indexers.runtimeconfig.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Indexers\02_Indexers\bin\Debug\net5.0\02_Indexers.runtimeconfig.dev.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Indexers\02_Indexers\bin\Debug\net5.0\02_Indexers.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Indexers\02_Indexers\bin\Debug\net5.0\ref\02_Indexers.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Indexers\02_Indexers\bin\Debug\net5.0\02_Indexers.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Indexers\02_Indexers\obj\Debug\net5.0\02_Indexers.csproj.AssemblyReference.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Indexers\02_Indexers\obj\Debug\net5.0\02_Indexers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Indexers\02_Indexers\obj\Debug\net5.0\02_Indexers.AssemblyInfoInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Indexers\02_Indexers\obj\Debug\net5.0\02_Indexers.AssemblyInfo.cs
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Indexers\02_Indexers\obj\Debug\net5.0\02_Indexers.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Indexers\02_Indexers\obj\Debug\net5.0\02_Indexers.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Indexers\02_Indexers\obj\Debug\net5.0\ref\02_Indexers.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Indexers\02_Indexers\obj\Debug\net5.0\02_Indexers.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Indexers\02_Indexers\obj\Debug\net5.0\02_Indexers.genruntimeconfig.cache
