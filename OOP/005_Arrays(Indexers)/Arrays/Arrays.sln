@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Arrays", "01_Arrays\01_A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_TwoDimensional", "02_TwoDimensional\02_TwoDimensional.csproj", "{B8748EBD-C7A8-42F8-BEB7-6672EB1E1728}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_ArrayMultiDim", "03_ArrayMultiDim\03_ArrayMultiDim.csproj", "{8F7BA422-919E-4B7B-AE93-C6B3B8420065}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B8748EBD-C7A8-42F8-BEB7-6672EB1E1728}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8748EBD-C7A8-42F8-BEB7-6672EB1E1728}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8748EBD-C7A8-42F8-BEB7-6672EB1E1728}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F7BA422-919E-4B7B-AE93-C6B3B8420065}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F7BA422-919E-4B7B-AE93-C6B3B8420065}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F7BA422-919E-4B7B-AE93-C6B3B8420065}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F7BA422-919E-4B7B-AE93-C6B3B8420065}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

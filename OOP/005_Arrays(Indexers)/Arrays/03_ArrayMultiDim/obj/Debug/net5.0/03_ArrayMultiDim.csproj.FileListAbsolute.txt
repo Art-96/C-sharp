@@ -1,0 +1,16 @@
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\03_ArrayMultiDim\bin\Debug\net5.0\03_ArrayMultiDim.exe
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\03_ArrayMultiDim\bin\Debug\net5.0\03_ArrayMultiDim.deps.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\03_ArrayMultiDim\bin\Debug\net5.0\03_ArrayMultiDim.runtimeconfig.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\03_ArrayMultiDim\bin\Debug\net5.0\03_ArrayMultiDim.runtimeconfig.dev.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\03_ArrayMultiDim\bin\Debug\net5.0\03_ArrayMultiDim.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\03_ArrayMultiDim\bin\Debug\net5.0\ref\03_ArrayMultiDim.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\03_ArrayMultiDim\bin\Debug\net5.0\03_ArrayMultiDim.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\03_ArrayMultiDim\obj\Debug\net5.0\03_ArrayMultiDim.csproj.AssemblyReference.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\03_ArrayMultiDim\obj\Debug\net5.0\03_ArrayMultiDim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\03_ArrayMultiDim\obj\Debug\net5.0\03_ArrayMultiDim.AssemblyInfoInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\03_ArrayMultiDim\obj\Debug\net5.0\03_ArrayMultiDim.AssemblyInfo.cs
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\03_ArrayMultiDim\obj\Debug\net5.0\03_ArrayMultiDim.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\03_ArrayMultiDim\obj\Debug\net5.0\03_ArrayMultiDim.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\03_ArrayMultiDim\obj\Debug\net5.0\ref\03_ArrayMultiDim.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\03_ArrayMultiDim\obj\Debug\net5.0\03_ArrayMultiDim.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\03_ArrayMultiDim\obj\Debug\net5.0\03_ArrayMultiDim.genruntimeconfig.cache
