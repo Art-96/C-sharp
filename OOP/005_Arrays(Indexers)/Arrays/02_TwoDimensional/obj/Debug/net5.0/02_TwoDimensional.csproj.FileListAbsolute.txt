@@ -1,0 +1,16 @@
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\02_TwoDimensional\bin\Debug\net5.0\02_TwoDimensional.exe
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\02_TwoDimensional\bin\Debug\net5.0\02_TwoDimensional.deps.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\02_TwoDimensional\bin\Debug\net5.0\02_TwoDimensional.runtimeconfig.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\02_TwoDimensional\bin\Debug\net5.0\02_TwoDimensional.runtimeconfig.dev.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\02_TwoDimensional\bin\Debug\net5.0\02_TwoDimensional.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\02_TwoDimensional\bin\Debug\net5.0\ref\02_TwoDimensional.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\02_TwoDimensional\bin\Debug\net5.0\02_TwoDimensional.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\02_TwoDimensional\obj\Debug\net5.0\02_TwoDimensional.csproj.AssemblyReference.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\02_TwoDimensional\obj\Debug\net5.0\02_TwoDimensional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\02_TwoDimensional\obj\Debug\net5.0\02_TwoDimensional.AssemblyInfoInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\02_TwoDimensional\obj\Debug\net5.0\02_TwoDimensional.AssemblyInfo.cs
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\02_TwoDimensional\obj\Debug\net5.0\02_TwoDimensional.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\02_TwoDimensional\obj\Debug\net5.0\02_TwoDimensional.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\02_TwoDimensional\obj\Debug\net5.0\ref\02_TwoDimensional.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\02_TwoDimensional\obj\Debug\net5.0\02_TwoDimensional.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\02_TwoDimensional\obj\Debug\net5.0\02_TwoDimensional.genruntimeconfig.cache
