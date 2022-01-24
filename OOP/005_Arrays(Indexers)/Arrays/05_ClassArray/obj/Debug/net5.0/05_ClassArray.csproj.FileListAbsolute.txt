@@ -1,0 +1,15 @@
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\05_ClassArray\bin\Debug\net5.0\05_ClassArray.exe
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\05_ClassArray\bin\Debug\net5.0\05_ClassArray.deps.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\05_ClassArray\bin\Debug\net5.0\05_ClassArray.runtimeconfig.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\05_ClassArray\bin\Debug\net5.0\05_ClassArray.runtimeconfig.dev.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\05_ClassArray\bin\Debug\net5.0\05_ClassArray.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\05_ClassArray\bin\Debug\net5.0\ref\05_ClassArray.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\05_ClassArray\bin\Debug\net5.0\05_ClassArray.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\05_ClassArray\obj\Debug\net5.0\05_ClassArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\05_ClassArray\obj\Debug\net5.0\05_ClassArray.AssemblyInfoInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\05_ClassArray\obj\Debug\net5.0\05_ClassArray.AssemblyInfo.cs
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\05_ClassArray\obj\Debug\net5.0\05_ClassArray.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\05_ClassArray\obj\Debug\net5.0\05_ClassArray.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\05_ClassArray\obj\Debug\net5.0\ref\05_ClassArray.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\05_ClassArray\obj\Debug\net5.0\05_ClassArray.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\005_Arrays(Indexers)\Arrays\05_ClassArray\obj\Debug\net5.0\05_ClassArray.genruntimeconfig.cache
