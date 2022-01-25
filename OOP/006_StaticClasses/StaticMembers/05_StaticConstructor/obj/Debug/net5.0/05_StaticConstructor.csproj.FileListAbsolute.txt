@@ -1,0 +1,15 @@
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticMembers\05_StaticConstructor\bin\Debug\net5.0\05_StaticConstructor.exe
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticMembers\05_StaticConstructor\bin\Debug\net5.0\05_StaticConstructor.deps.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticMembers\05_StaticConstructor\bin\Debug\net5.0\05_StaticConstructor.runtimeconfig.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticMembers\05_StaticConstructor\bin\Debug\net5.0\05_StaticConstructor.runtimeconfig.dev.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticMembers\05_StaticConstructor\bin\Debug\net5.0\05_StaticConstructor.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticMembers\05_StaticConstructor\bin\Debug\net5.0\ref\05_StaticConstructor.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticMembers\05_StaticConstructor\bin\Debug\net5.0\05_StaticConstructor.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticMembers\05_StaticConstructor\obj\Debug\net5.0\05_StaticConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticMembers\05_StaticConstructor\obj\Debug\net5.0\05_StaticConstructor.AssemblyInfoInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticMembers\05_StaticConstructor\obj\Debug\net5.0\05_StaticConstructor.AssemblyInfo.cs
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticMembers\05_StaticConstructor\obj\Debug\net5.0\05_StaticConstructor.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticMembers\05_StaticConstructor\obj\Debug\net5.0\05_StaticConstructor.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticMembers\05_StaticConstructor\obj\Debug\net5.0\ref\05_StaticConstructor.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticMembers\05_StaticConstructor\obj\Debug\net5.0\05_StaticConstructor.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticMembers\05_StaticConstructor\obj\Debug\net5.0\05_StaticConstructor.genruntimeconfig.cache
