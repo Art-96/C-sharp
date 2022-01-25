@@ -1,0 +1,16 @@
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticClass\01_StaticClass\bin\Debug\net5.0\01_StaticClass.exe
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticClass\01_StaticClass\bin\Debug\net5.0\01_StaticClass.deps.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticClass\01_StaticClass\bin\Debug\net5.0\01_StaticClass.runtimeconfig.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticClass\01_StaticClass\bin\Debug\net5.0\01_StaticClass.runtimeconfig.dev.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticClass\01_StaticClass\bin\Debug\net5.0\01_StaticClass.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticClass\01_StaticClass\bin\Debug\net5.0\ref\01_StaticClass.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticClass\01_StaticClass\bin\Debug\net5.0\01_StaticClass.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticClass\01_StaticClass\obj\Debug\net5.0\01_StaticClass.csproj.AssemblyReference.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticClass\01_StaticClass\obj\Debug\net5.0\01_StaticClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticClass\01_StaticClass\obj\Debug\net5.0\01_StaticClass.AssemblyInfoInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticClass\01_StaticClass\obj\Debug\net5.0\01_StaticClass.AssemblyInfo.cs
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticClass\01_StaticClass\obj\Debug\net5.0\01_StaticClass.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticClass\01_StaticClass\obj\Debug\net5.0\01_StaticClass.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticClass\01_StaticClass\obj\Debug\net5.0\ref\01_StaticClass.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticClass\01_StaticClass\obj\Debug\net5.0\01_StaticClass.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticClass\01_StaticClass\obj\Debug\net5.0\01_StaticClass.genruntimeconfig.cache
