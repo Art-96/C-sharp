@@ -1,0 +1,16 @@
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticMembers\03_Static\bin\Debug\net5.0\03_Static.exe
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticMembers\03_Static\bin\Debug\net5.0\03_Static.deps.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticMembers\03_Static\bin\Debug\net5.0\03_Static.runtimeconfig.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticMembers\03_Static\bin\Debug\net5.0\03_Static.runtimeconfig.dev.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticMembers\03_Static\bin\Debug\net5.0\03_Static.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticMembers\03_Static\bin\Debug\net5.0\ref\03_Static.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticMembers\03_Static\bin\Debug\net5.0\03_Static.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticMembers\03_Static\obj\Debug\net5.0\03_Static.csproj.AssemblyReference.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticMembers\03_Static\obj\Debug\net5.0\03_Static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticMembers\03_Static\obj\Debug\net5.0\03_Static.AssemblyInfoInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticMembers\03_Static\obj\Debug\net5.0\03_Static.AssemblyInfo.cs
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticMembers\03_Static\obj\Debug\net5.0\03_Static.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticMembers\03_Static\obj\Debug\net5.0\03_Static.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticMembers\03_Static\obj\Debug\net5.0\ref\03_Static.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticMembers\03_Static\obj\Debug\net5.0\03_Static.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticMembers\03_Static\obj\Debug\net5.0\03_Static.genruntimeconfig.cache
