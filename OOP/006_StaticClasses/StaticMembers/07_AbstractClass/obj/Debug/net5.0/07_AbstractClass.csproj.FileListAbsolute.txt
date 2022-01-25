@@ -1,0 +1,15 @@
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticMembers\07_AbstractClass\bin\Debug\net5.0\07_AbstractClass.exe
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticMembers\07_AbstractClass\bin\Debug\net5.0\07_AbstractClass.deps.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticMembers\07_AbstractClass\bin\Debug\net5.0\07_AbstractClass.runtimeconfig.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticMembers\07_AbstractClass\bin\Debug\net5.0\07_AbstractClass.runtimeconfig.dev.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticMembers\07_AbstractClass\bin\Debug\net5.0\07_AbstractClass.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticMembers\07_AbstractClass\bin\Debug\net5.0\ref\07_AbstractClass.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticMembers\07_AbstractClass\bin\Debug\net5.0\07_AbstractClass.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticMembers\07_AbstractClass\obj\Debug\net5.0\07_AbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticMembers\07_AbstractClass\obj\Debug\net5.0\07_AbstractClass.AssemblyInfoInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticMembers\07_AbstractClass\obj\Debug\net5.0\07_AbstractClass.AssemblyInfo.cs
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticMembers\07_AbstractClass\obj\Debug\net5.0\07_AbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticMembers\07_AbstractClass\obj\Debug\net5.0\07_AbstractClass.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticMembers\07_AbstractClass\obj\Debug\net5.0\ref\07_AbstractClass.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticMembers\07_AbstractClass\obj\Debug\net5.0\07_AbstractClass.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticMembers\07_AbstractClass\obj\Debug\net5.0\07_AbstractClass.genruntimeconfig.cache
