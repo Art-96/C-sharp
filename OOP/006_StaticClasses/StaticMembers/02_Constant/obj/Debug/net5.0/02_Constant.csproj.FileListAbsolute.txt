@@ -1,0 +1,16 @@
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticMembers\02_Constant\bin\Debug\net5.0\02_Constant.exe
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticMembers\02_Constant\bin\Debug\net5.0\02_Constant.deps.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticMembers\02_Constant\bin\Debug\net5.0\02_Constant.runtimeconfig.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticMembers\02_Constant\bin\Debug\net5.0\02_Constant.runtimeconfig.dev.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticMembers\02_Constant\bin\Debug\net5.0\02_Constant.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticMembers\02_Constant\bin\Debug\net5.0\ref\02_Constant.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticMembers\02_Constant\bin\Debug\net5.0\02_Constant.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticMembers\02_Constant\obj\Debug\net5.0\02_Constant.csproj.AssemblyReference.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticMembers\02_Constant\obj\Debug\net5.0\02_Constant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticMembers\02_Constant\obj\Debug\net5.0\02_Constant.AssemblyInfoInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticMembers\02_Constant\obj\Debug\net5.0\02_Constant.AssemblyInfo.cs
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticMembers\02_Constant\obj\Debug\net5.0\02_Constant.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticMembers\02_Constant\obj\Debug\net5.0\02_Constant.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticMembers\02_Constant\obj\Debug\net5.0\ref\02_Constant.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticMembers\02_Constant\obj\Debug\net5.0\02_Constant.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\StaticMembers\02_Constant\obj\Debug\net5.0\02_Constant.genruntimeconfig.cache
