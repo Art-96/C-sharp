@@ -1,0 +1,16 @@
+C:\Users\artur\OneDrive\Desktop\C#\OOP\007_Structures\Inheritance\01_Inheritance\bin\Debug\net5.0\01_Inheritance.exe
+C:\Users\artur\OneDrive\Desktop\C#\OOP\007_Structures\Inheritance\01_Inheritance\bin\Debug\net5.0\01_Inheritance.deps.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\007_Structures\Inheritance\01_Inheritance\bin\Debug\net5.0\01_Inheritance.runtimeconfig.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\007_Structures\Inheritance\01_Inheritance\bin\Debug\net5.0\01_Inheritance.runtimeconfig.dev.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\007_Structures\Inheritance\01_Inheritance\bin\Debug\net5.0\01_Inheritance.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\007_Structures\Inheritance\01_Inheritance\bin\Debug\net5.0\ref\01_Inheritance.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\007_Structures\Inheritance\01_Inheritance\bin\Debug\net5.0\01_Inheritance.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\007_Structures\Inheritance\01_Inheritance\obj\Debug\net5.0\01_Inheritance.csproj.AssemblyReference.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\007_Structures\Inheritance\01_Inheritance\obj\Debug\net5.0\01_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\OneDrive\Desktop\C#\OOP\007_Structures\Inheritance\01_Inheritance\obj\Debug\net5.0\01_Inheritance.AssemblyInfoInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\007_Structures\Inheritance\01_Inheritance\obj\Debug\net5.0\01_Inheritance.AssemblyInfo.cs
+C:\Users\artur\OneDrive\Desktop\C#\OOP\007_Structures\Inheritance\01_Inheritance\obj\Debug\net5.0\01_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\007_Structures\Inheritance\01_Inheritance\obj\Debug\net5.0\01_Inheritance.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\007_Structures\Inheritance\01_Inheritance\obj\Debug\net5.0\ref\01_Inheritance.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\007_Structures\Inheritance\01_Inheritance\obj\Debug\net5.0\01_Inheritance.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\007_Structures\Inheritance\01_Inheritance\obj\Debug\net5.0\01_Inheritance.genruntimeconfig.cache
