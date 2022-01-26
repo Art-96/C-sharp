@@ -1,0 +1,15 @@
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\Nested\07_Nested\bin\Debug\net5.0\07_Nested.exe
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\Nested\07_Nested\bin\Debug\net5.0\07_Nested.deps.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\Nested\07_Nested\bin\Debug\net5.0\07_Nested.runtimeconfig.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\Nested\07_Nested\bin\Debug\net5.0\07_Nested.runtimeconfig.dev.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\Nested\07_Nested\bin\Debug\net5.0\07_Nested.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\Nested\07_Nested\bin\Debug\net5.0\ref\07_Nested.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\Nested\07_Nested\bin\Debug\net5.0\07_Nested.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\Nested\07_Nested\obj\Debug\net5.0\07_Nested.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\Nested\07_Nested\obj\Debug\net5.0\07_Nested.AssemblyInfoInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\Nested\07_Nested\obj\Debug\net5.0\07_Nested.AssemblyInfo.cs
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\Nested\07_Nested\obj\Debug\net5.0\07_Nested.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\Nested\07_Nested\obj\Debug\net5.0\07_Nested.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\Nested\07_Nested\obj\Debug\net5.0\ref\07_Nested.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\Nested\07_Nested\obj\Debug\net5.0\07_Nested.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\006_StaticClasses\Nested\07_Nested\obj\Debug\net5.0\07_Nested.genruntimeconfig.cache
