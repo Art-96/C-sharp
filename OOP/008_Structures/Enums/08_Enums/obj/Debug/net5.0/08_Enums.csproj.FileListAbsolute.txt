@@ -1,0 +1,15 @@
+C:\Users\artur\OneDrive\Desktop\C#\OOP\008_Structures\Enums\08_Enums\bin\Debug\net5.0\08_Enums.exe
+C:\Users\artur\OneDrive\Desktop\C#\OOP\008_Structures\Enums\08_Enums\bin\Debug\net5.0\08_Enums.deps.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\008_Structures\Enums\08_Enums\bin\Debug\net5.0\08_Enums.runtimeconfig.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\008_Structures\Enums\08_Enums\bin\Debug\net5.0\08_Enums.runtimeconfig.dev.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\008_Structures\Enums\08_Enums\bin\Debug\net5.0\08_Enums.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\008_Structures\Enums\08_Enums\bin\Debug\net5.0\ref\08_Enums.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\008_Structures\Enums\08_Enums\bin\Debug\net5.0\08_Enums.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\008_Structures\Enums\08_Enums\obj\Debug\net5.0\08_Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\OneDrive\Desktop\C#\OOP\008_Structures\Enums\08_Enums\obj\Debug\net5.0\08_Enums.AssemblyInfoInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\008_Structures\Enums\08_Enums\obj\Debug\net5.0\08_Enums.AssemblyInfo.cs
+C:\Users\artur\OneDrive\Desktop\C#\OOP\008_Structures\Enums\08_Enums\obj\Debug\net5.0\08_Enums.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\008_Structures\Enums\08_Enums\obj\Debug\net5.0\08_Enums.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\008_Structures\Enums\08_Enums\obj\Debug\net5.0\ref\08_Enums.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\008_Structures\Enums\08_Enums\obj\Debug\net5.0\08_Enums.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\008_Structures\Enums\08_Enums\obj\Debug\net5.0\08_Enums.genruntimeconfig.cache
