@@ -1,0 +1,16 @@
+C:\Users\artur\OneDrive\Desktop\C#\OOP\008_Structures\Boxing\03_Boxing\bin\Debug\net5.0\03_Boxing.exe
+C:\Users\artur\OneDrive\Desktop\C#\OOP\008_Structures\Boxing\03_Boxing\bin\Debug\net5.0\03_Boxing.deps.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\008_Structures\Boxing\03_Boxing\bin\Debug\net5.0\03_Boxing.runtimeconfig.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\008_Structures\Boxing\03_Boxing\bin\Debug\net5.0\03_Boxing.runtimeconfig.dev.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\008_Structures\Boxing\03_Boxing\bin\Debug\net5.0\03_Boxing.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\008_Structures\Boxing\03_Boxing\bin\Debug\net5.0\ref\03_Boxing.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\008_Structures\Boxing\03_Boxing\bin\Debug\net5.0\03_Boxing.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\008_Structures\Boxing\03_Boxing\obj\Debug\net5.0\03_Boxing.csproj.AssemblyReference.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\008_Structures\Boxing\03_Boxing\obj\Debug\net5.0\03_Boxing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\OneDrive\Desktop\C#\OOP\008_Structures\Boxing\03_Boxing\obj\Debug\net5.0\03_Boxing.AssemblyInfoInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\008_Structures\Boxing\03_Boxing\obj\Debug\net5.0\03_Boxing.AssemblyInfo.cs
+C:\Users\artur\OneDrive\Desktop\C#\OOP\008_Structures\Boxing\03_Boxing\obj\Debug\net5.0\03_Boxing.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\008_Structures\Boxing\03_Boxing\obj\Debug\net5.0\03_Boxing.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\008_Structures\Boxing\03_Boxing\obj\Debug\net5.0\ref\03_Boxing.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\008_Structures\Boxing\03_Boxing\obj\Debug\net5.0\03_Boxing.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\008_Structures\Boxing\03_Boxing\obj\Debug\net5.0\03_Boxing.genruntimeconfig.cache
