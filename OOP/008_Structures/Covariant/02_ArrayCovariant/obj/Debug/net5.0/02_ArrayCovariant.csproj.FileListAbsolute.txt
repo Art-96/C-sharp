@@ -1,0 +1,16 @@
+C:\Users\artur\OneDrive\Desktop\C#\OOP\008_Structures\Covariant\02_ArrayCovariant\bin\Debug\net5.0\02_ArrayCovariant.exe
+C:\Users\artur\OneDrive\Desktop\C#\OOP\008_Structures\Covariant\02_ArrayCovariant\bin\Debug\net5.0\02_ArrayCovariant.deps.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\008_Structures\Covariant\02_ArrayCovariant\bin\Debug\net5.0\02_ArrayCovariant.runtimeconfig.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\008_Structures\Covariant\02_ArrayCovariant\bin\Debug\net5.0\02_ArrayCovariant.runtimeconfig.dev.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\008_Structures\Covariant\02_ArrayCovariant\bin\Debug\net5.0\02_ArrayCovariant.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\008_Structures\Covariant\02_ArrayCovariant\bin\Debug\net5.0\ref\02_ArrayCovariant.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\008_Structures\Covariant\02_ArrayCovariant\bin\Debug\net5.0\02_ArrayCovariant.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\008_Structures\Covariant\02_ArrayCovariant\obj\Debug\net5.0\02_ArrayCovariant.csproj.AssemblyReference.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\008_Structures\Covariant\02_ArrayCovariant\obj\Debug\net5.0\02_ArrayCovariant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\OneDrive\Desktop\C#\OOP\008_Structures\Covariant\02_ArrayCovariant\obj\Debug\net5.0\02_ArrayCovariant.AssemblyInfoInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\008_Structures\Covariant\02_ArrayCovariant\obj\Debug\net5.0\02_ArrayCovariant.AssemblyInfo.cs
+C:\Users\artur\OneDrive\Desktop\C#\OOP\008_Structures\Covariant\02_ArrayCovariant\obj\Debug\net5.0\02_ArrayCovariant.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\008_Structures\Covariant\02_ArrayCovariant\obj\Debug\net5.0\02_ArrayCovariant.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\008_Structures\Covariant\02_ArrayCovariant\obj\Debug\net5.0\ref\02_ArrayCovariant.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\008_Structures\Covariant\02_ArrayCovariant\obj\Debug\net5.0\02_ArrayCovariant.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\008_Structures\Covariant\02_ArrayCovariant\obj\Debug\net5.0\02_ArrayCovariant.genruntimeconfig.cache
