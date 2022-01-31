@@ -1,0 +1,15 @@
+C:\Users\artur\OneDrive\Desktop\C#\OOP\009_Delegates\09_Delegates\bin\Debug\net5.0\09_Delegates.exe
+C:\Users\artur\OneDrive\Desktop\C#\OOP\009_Delegates\09_Delegates\bin\Debug\net5.0\09_Delegates.deps.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\009_Delegates\09_Delegates\bin\Debug\net5.0\09_Delegates.runtimeconfig.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\009_Delegates\09_Delegates\bin\Debug\net5.0\09_Delegates.runtimeconfig.dev.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\009_Delegates\09_Delegates\bin\Debug\net5.0\09_Delegates.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\009_Delegates\09_Delegates\bin\Debug\net5.0\ref\09_Delegates.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\009_Delegates\09_Delegates\bin\Debug\net5.0\09_Delegates.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\009_Delegates\09_Delegates\obj\Debug\net5.0\09_Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\OneDrive\Desktop\C#\OOP\009_Delegates\09_Delegates\obj\Debug\net5.0\09_Delegates.AssemblyInfoInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\009_Delegates\09_Delegates\obj\Debug\net5.0\09_Delegates.AssemblyInfo.cs
+C:\Users\artur\OneDrive\Desktop\C#\OOP\009_Delegates\09_Delegates\obj\Debug\net5.0\09_Delegates.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\009_Delegates\09_Delegates\obj\Debug\net5.0\09_Delegates.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\009_Delegates\09_Delegates\obj\Debug\net5.0\ref\09_Delegates.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\009_Delegates\09_Delegates\obj\Debug\net5.0\09_Delegates.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\009_Delegates\09_Delegates\obj\Debug\net5.0\09_Delegates.genruntimeconfig.cache
