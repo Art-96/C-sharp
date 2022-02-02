@@ -1,0 +1,16 @@
+C:\Users\artur\OneDrive\Desktop\C#\OOP\010_Generics\Generics\05_Generics\bin\Debug\net5.0\05_Generics.exe
+C:\Users\artur\OneDrive\Desktop\C#\OOP\010_Generics\Generics\05_Generics\bin\Debug\net5.0\05_Generics.deps.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\010_Generics\Generics\05_Generics\bin\Debug\net5.0\05_Generics.runtimeconfig.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\010_Generics\Generics\05_Generics\bin\Debug\net5.0\05_Generics.runtimeconfig.dev.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\010_Generics\Generics\05_Generics\bin\Debug\net5.0\05_Generics.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\010_Generics\Generics\05_Generics\bin\Debug\net5.0\ref\05_Generics.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\010_Generics\Generics\05_Generics\bin\Debug\net5.0\05_Generics.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\010_Generics\Generics\05_Generics\obj\Debug\net5.0\05_Generics.csproj.AssemblyReference.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\010_Generics\Generics\05_Generics\obj\Debug\net5.0\05_Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\OneDrive\Desktop\C#\OOP\010_Generics\Generics\05_Generics\obj\Debug\net5.0\05_Generics.AssemblyInfoInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\010_Generics\Generics\05_Generics\obj\Debug\net5.0\05_Generics.AssemblyInfo.cs
+C:\Users\artur\OneDrive\Desktop\C#\OOP\010_Generics\Generics\05_Generics\obj\Debug\net5.0\05_Generics.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\010_Generics\Generics\05_Generics\obj\Debug\net5.0\05_Generics.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\010_Generics\Generics\05_Generics\obj\Debug\net5.0\ref\05_Generics.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\010_Generics\Generics\05_Generics\obj\Debug\net5.0\05_Generics.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\010_Generics\Generics\05_Generics\obj\Debug\net5.0\05_Generics.genruntimeconfig.cache

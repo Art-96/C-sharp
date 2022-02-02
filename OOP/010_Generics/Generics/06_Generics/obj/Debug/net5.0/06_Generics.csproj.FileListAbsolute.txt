@@ -1,0 +1,4 @@
+C:\Users\artur\OneDrive\Desktop\C#\OOP\010_Generics\Generics\06_Generics\obj\Debug\net5.0\06_Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\OneDrive\Desktop\C#\OOP\010_Generics\Generics\06_Generics\obj\Debug\net5.0\06_Generics.AssemblyInfoInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\010_Generics\Generics\06_Generics\obj\Debug\net5.0\06_Generics.AssemblyInfo.cs
+C:\Users\artur\OneDrive\Desktop\C#\OOP\010_Generics\Generics\06_Generics\obj\Debug\net5.0\06_Generics.csproj.CoreCompileInputs.cache
