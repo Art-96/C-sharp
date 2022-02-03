@@ -1,0 +1,16 @@
+C:\Users\artur\OneDrive\Desktop\C#\OOP\011_Generics(Constraints)\List\ArrayList_ListGen\bin\Debug\net5.0\ArrayList_ListGen.exe
+C:\Users\artur\OneDrive\Desktop\C#\OOP\011_Generics(Constraints)\List\ArrayList_ListGen\bin\Debug\net5.0\ArrayList_ListGen.deps.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\011_Generics(Constraints)\List\ArrayList_ListGen\bin\Debug\net5.0\ArrayList_ListGen.runtimeconfig.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\011_Generics(Constraints)\List\ArrayList_ListGen\bin\Debug\net5.0\ArrayList_ListGen.runtimeconfig.dev.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\011_Generics(Constraints)\List\ArrayList_ListGen\bin\Debug\net5.0\ArrayList_ListGen.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\011_Generics(Constraints)\List\ArrayList_ListGen\bin\Debug\net5.0\ref\ArrayList_ListGen.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\011_Generics(Constraints)\List\ArrayList_ListGen\bin\Debug\net5.0\ArrayList_ListGen.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\011_Generics(Constraints)\List\ArrayList_ListGen\obj\Debug\net5.0\ArrayList_ListGen.csproj.AssemblyReference.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\011_Generics(Constraints)\List\ArrayList_ListGen\obj\Debug\net5.0\ArrayList_ListGen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\OneDrive\Desktop\C#\OOP\011_Generics(Constraints)\List\ArrayList_ListGen\obj\Debug\net5.0\ArrayList_ListGen.AssemblyInfoInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\011_Generics(Constraints)\List\ArrayList_ListGen\obj\Debug\net5.0\ArrayList_ListGen.AssemblyInfo.cs
+C:\Users\artur\OneDrive\Desktop\C#\OOP\011_Generics(Constraints)\List\ArrayList_ListGen\obj\Debug\net5.0\ArrayList_ListGen.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\011_Generics(Constraints)\List\ArrayList_ListGen\obj\Debug\net5.0\ArrayList_ListGen.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\011_Generics(Constraints)\List\ArrayList_ListGen\obj\Debug\net5.0\ref\ArrayList_ListGen.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\011_Generics(Constraints)\List\ArrayList_ListGen\obj\Debug\net5.0\ArrayList_ListGen.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\011_Generics(Constraints)\List\ArrayList_ListGen\obj\Debug\net5.0\ArrayList_ListGen.genruntimeconfig.cache
