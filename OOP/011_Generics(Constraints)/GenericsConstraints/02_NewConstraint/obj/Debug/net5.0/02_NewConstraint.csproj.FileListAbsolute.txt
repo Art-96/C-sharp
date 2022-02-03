@@ -1,0 +1,16 @@
+C:\Users\artur\OneDrive\Desktop\C#\OOP\011_Generics(Constraints)\GenericsConstraints\02_NewConstraint\bin\Debug\net5.0\02_NewConstraint.exe
+C:\Users\artur\OneDrive\Desktop\C#\OOP\011_Generics(Constraints)\GenericsConstraints\02_NewConstraint\bin\Debug\net5.0\02_NewConstraint.deps.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\011_Generics(Constraints)\GenericsConstraints\02_NewConstraint\bin\Debug\net5.0\02_NewConstraint.runtimeconfig.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\011_Generics(Constraints)\GenericsConstraints\02_NewConstraint\bin\Debug\net5.0\02_NewConstraint.runtimeconfig.dev.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\011_Generics(Constraints)\GenericsConstraints\02_NewConstraint\bin\Debug\net5.0\02_NewConstraint.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\011_Generics(Constraints)\GenericsConstraints\02_NewConstraint\bin\Debug\net5.0\ref\02_NewConstraint.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\011_Generics(Constraints)\GenericsConstraints\02_NewConstraint\bin\Debug\net5.0\02_NewConstraint.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\011_Generics(Constraints)\GenericsConstraints\02_NewConstraint\obj\Debug\net5.0\02_NewConstraint.csproj.AssemblyReference.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\011_Generics(Constraints)\GenericsConstraints\02_NewConstraint\obj\Debug\net5.0\02_NewConstraint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\OneDrive\Desktop\C#\OOP\011_Generics(Constraints)\GenericsConstraints\02_NewConstraint\obj\Debug\net5.0\02_NewConstraint.AssemblyInfoInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\011_Generics(Constraints)\GenericsConstraints\02_NewConstraint\obj\Debug\net5.0\02_NewConstraint.AssemblyInfo.cs
+C:\Users\artur\OneDrive\Desktop\C#\OOP\011_Generics(Constraints)\GenericsConstraints\02_NewConstraint\obj\Debug\net5.0\02_NewConstraint.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\011_Generics(Constraints)\GenericsConstraints\02_NewConstraint\obj\Debug\net5.0\02_NewConstraint.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\011_Generics(Constraints)\GenericsConstraints\02_NewConstraint\obj\Debug\net5.0\ref\02_NewConstraint.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\011_Generics(Constraints)\GenericsConstraints\02_NewConstraint\obj\Debug\net5.0\02_NewConstraint.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\011_Generics(Constraints)\GenericsConstraints\02_NewConstraint\obj\Debug\net5.0\02_NewConstraint.genruntimeconfig.cache
