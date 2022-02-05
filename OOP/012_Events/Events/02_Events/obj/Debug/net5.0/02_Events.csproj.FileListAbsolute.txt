@@ -1,0 +1,16 @@
+C:\Users\artur\OneDrive\Desktop\C#\OOP\012_Events\Events\02_Events\bin\Debug\net5.0\02_Events.exe
+C:\Users\artur\OneDrive\Desktop\C#\OOP\012_Events\Events\02_Events\bin\Debug\net5.0\02_Events.deps.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\012_Events\Events\02_Events\bin\Debug\net5.0\02_Events.runtimeconfig.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\012_Events\Events\02_Events\bin\Debug\net5.0\02_Events.runtimeconfig.dev.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\012_Events\Events\02_Events\bin\Debug\net5.0\02_Events.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\012_Events\Events\02_Events\bin\Debug\net5.0\ref\02_Events.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\012_Events\Events\02_Events\bin\Debug\net5.0\02_Events.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\012_Events\Events\02_Events\obj\Debug\net5.0\02_Events.csproj.AssemblyReference.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\012_Events\Events\02_Events\obj\Debug\net5.0\02_Events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\OneDrive\Desktop\C#\OOP\012_Events\Events\02_Events\obj\Debug\net5.0\02_Events.AssemblyInfoInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\012_Events\Events\02_Events\obj\Debug\net5.0\02_Events.AssemblyInfo.cs
+C:\Users\artur\OneDrive\Desktop\C#\OOP\012_Events\Events\02_Events\obj\Debug\net5.0\02_Events.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\012_Events\Events\02_Events\obj\Debug\net5.0\02_Events.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\012_Events\Events\02_Events\obj\Debug\net5.0\ref\02_Events.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\012_Events\Events\02_Events\obj\Debug\net5.0\02_Events.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\012_Events\Events\02_Events\obj\Debug\net5.0\02_Events.genruntimeconfig.cache
