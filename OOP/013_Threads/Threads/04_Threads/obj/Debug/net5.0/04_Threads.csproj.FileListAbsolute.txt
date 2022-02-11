@@ -1,0 +1,16 @@
+C:\Users\artur\OneDrive\Desktop\C#\OOP\013_Threads\Threads\04_Threads\bin\Debug\net5.0\04_Threads.exe
+C:\Users\artur\OneDrive\Desktop\C#\OOP\013_Threads\Threads\04_Threads\bin\Debug\net5.0\04_Threads.deps.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\013_Threads\Threads\04_Threads\bin\Debug\net5.0\04_Threads.runtimeconfig.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\013_Threads\Threads\04_Threads\bin\Debug\net5.0\04_Threads.runtimeconfig.dev.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\013_Threads\Threads\04_Threads\bin\Debug\net5.0\04_Threads.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\013_Threads\Threads\04_Threads\bin\Debug\net5.0\ref\04_Threads.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\013_Threads\Threads\04_Threads\bin\Debug\net5.0\04_Threads.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\013_Threads\Threads\04_Threads\obj\Debug\net5.0\04_Threads.csproj.AssemblyReference.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\013_Threads\Threads\04_Threads\obj\Debug\net5.0\04_Threads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\OneDrive\Desktop\C#\OOP\013_Threads\Threads\04_Threads\obj\Debug\net5.0\04_Threads.AssemblyInfoInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\013_Threads\Threads\04_Threads\obj\Debug\net5.0\04_Threads.AssemblyInfo.cs
+C:\Users\artur\OneDrive\Desktop\C#\OOP\013_Threads\Threads\04_Threads\obj\Debug\net5.0\04_Threads.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\013_Threads\Threads\04_Threads\obj\Debug\net5.0\04_Threads.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\013_Threads\Threads\04_Threads\obj\Debug\net5.0\ref\04_Threads.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\013_Threads\Threads\04_Threads\obj\Debug\net5.0\04_Threads.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\013_Threads\Threads\04_Threads\obj\Debug\net5.0\04_Threads.genruntimeconfig.cache
