@@ -1,0 +1,16 @@
+C:\Users\artur\OneDrive\Desktop\C#\OOP\013_Threads\CriticalSection\03_CriticalSection\bin\Debug\net5.0\03_CriticalSection.exe
+C:\Users\artur\OneDrive\Desktop\C#\OOP\013_Threads\CriticalSection\03_CriticalSection\bin\Debug\net5.0\03_CriticalSection.deps.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\013_Threads\CriticalSection\03_CriticalSection\bin\Debug\net5.0\03_CriticalSection.runtimeconfig.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\013_Threads\CriticalSection\03_CriticalSection\bin\Debug\net5.0\03_CriticalSection.runtimeconfig.dev.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\013_Threads\CriticalSection\03_CriticalSection\bin\Debug\net5.0\03_CriticalSection.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\013_Threads\CriticalSection\03_CriticalSection\bin\Debug\net5.0\ref\03_CriticalSection.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\013_Threads\CriticalSection\03_CriticalSection\bin\Debug\net5.0\03_CriticalSection.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\013_Threads\CriticalSection\03_CriticalSection\obj\Debug\net5.0\03_CriticalSection.csproj.AssemblyReference.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\013_Threads\CriticalSection\03_CriticalSection\obj\Debug\net5.0\03_CriticalSection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\OneDrive\Desktop\C#\OOP\013_Threads\CriticalSection\03_CriticalSection\obj\Debug\net5.0\03_CriticalSection.AssemblyInfoInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\013_Threads\CriticalSection\03_CriticalSection\obj\Debug\net5.0\03_CriticalSection.AssemblyInfo.cs
+C:\Users\artur\OneDrive\Desktop\C#\OOP\013_Threads\CriticalSection\03_CriticalSection\obj\Debug\net5.0\03_CriticalSection.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\013_Threads\CriticalSection\03_CriticalSection\obj\Debug\net5.0\03_CriticalSection.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\013_Threads\CriticalSection\03_CriticalSection\obj\Debug\net5.0\ref\03_CriticalSection.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\013_Threads\CriticalSection\03_CriticalSection\obj\Debug\net5.0\03_CriticalSection.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\013_Threads\CriticalSection\03_CriticalSection\obj\Debug\net5.0\03_CriticalSection.genruntimeconfig.cache
