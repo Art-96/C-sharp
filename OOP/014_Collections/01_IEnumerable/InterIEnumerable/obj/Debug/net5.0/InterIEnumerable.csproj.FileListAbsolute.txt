@@ -1,0 +1,16 @@
+C:\Users\artur\OneDrive\Desktop\C#\OOP\014_Collections\01_IEnumerable\InterIEnumerable\bin\Debug\net5.0\InterIEnumerable.exe
+C:\Users\artur\OneDrive\Desktop\C#\OOP\014_Collections\01_IEnumerable\InterIEnumerable\bin\Debug\net5.0\InterIEnumerable.deps.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\014_Collections\01_IEnumerable\InterIEnumerable\bin\Debug\net5.0\InterIEnumerable.runtimeconfig.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\014_Collections\01_IEnumerable\InterIEnumerable\bin\Debug\net5.0\InterIEnumerable.runtimeconfig.dev.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\014_Collections\01_IEnumerable\InterIEnumerable\bin\Debug\net5.0\InterIEnumerable.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\014_Collections\01_IEnumerable\InterIEnumerable\bin\Debug\net5.0\ref\InterIEnumerable.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\014_Collections\01_IEnumerable\InterIEnumerable\bin\Debug\net5.0\InterIEnumerable.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\014_Collections\01_IEnumerable\InterIEnumerable\obj\Debug\net5.0\InterIEnumerable.csproj.AssemblyReference.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\014_Collections\01_IEnumerable\InterIEnumerable\obj\Debug\net5.0\InterIEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\OneDrive\Desktop\C#\OOP\014_Collections\01_IEnumerable\InterIEnumerable\obj\Debug\net5.0\InterIEnumerable.AssemblyInfoInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\014_Collections\01_IEnumerable\InterIEnumerable\obj\Debug\net5.0\InterIEnumerable.AssemblyInfo.cs
+C:\Users\artur\OneDrive\Desktop\C#\OOP\014_Collections\01_IEnumerable\InterIEnumerable\obj\Debug\net5.0\InterIEnumerable.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\014_Collections\01_IEnumerable\InterIEnumerable\obj\Debug\net5.0\InterIEnumerable.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\014_Collections\01_IEnumerable\InterIEnumerable\obj\Debug\net5.0\ref\InterIEnumerable.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\014_Collections\01_IEnumerable\InterIEnumerable\obj\Debug\net5.0\InterIEnumerable.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\014_Collections\01_IEnumerable\InterIEnumerable\obj\Debug\net5.0\InterIEnumerable.genruntimeconfig.cache
