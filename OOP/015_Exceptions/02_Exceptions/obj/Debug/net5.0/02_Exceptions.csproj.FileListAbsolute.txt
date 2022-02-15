@@ -1,0 +1,16 @@
+C:\Users\artur\OneDrive\Desktop\C#\OOP\015_Exceptions\02_Exceptions\bin\Debug\net5.0\02_Exceptions.exe
+C:\Users\artur\OneDrive\Desktop\C#\OOP\015_Exceptions\02_Exceptions\bin\Debug\net5.0\02_Exceptions.deps.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\015_Exceptions\02_Exceptions\bin\Debug\net5.0\02_Exceptions.runtimeconfig.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\015_Exceptions\02_Exceptions\bin\Debug\net5.0\02_Exceptions.runtimeconfig.dev.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\015_Exceptions\02_Exceptions\bin\Debug\net5.0\02_Exceptions.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\015_Exceptions\02_Exceptions\bin\Debug\net5.0\ref\02_Exceptions.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\015_Exceptions\02_Exceptions\bin\Debug\net5.0\02_Exceptions.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\015_Exceptions\02_Exceptions\obj\Debug\net5.0\02_Exceptions.csproj.AssemblyReference.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\015_Exceptions\02_Exceptions\obj\Debug\net5.0\02_Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\OneDrive\Desktop\C#\OOP\015_Exceptions\02_Exceptions\obj\Debug\net5.0\02_Exceptions.AssemblyInfoInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\015_Exceptions\02_Exceptions\obj\Debug\net5.0\02_Exceptions.AssemblyInfo.cs
+C:\Users\artur\OneDrive\Desktop\C#\OOP\015_Exceptions\02_Exceptions\obj\Debug\net5.0\02_Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\015_Exceptions\02_Exceptions\obj\Debug\net5.0\02_Exceptions.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\015_Exceptions\02_Exceptions\obj\Debug\net5.0\ref\02_Exceptions.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\015_Exceptions\02_Exceptions\obj\Debug\net5.0\02_Exceptions.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\015_Exceptions\02_Exceptions\obj\Debug\net5.0\02_Exceptions.genruntimeconfig.cache
