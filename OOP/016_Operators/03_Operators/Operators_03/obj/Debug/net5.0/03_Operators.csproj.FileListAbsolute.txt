@@ -1,0 +1,15 @@
+C:\Users\artur\OneDrive\Desktop\C#\OOP\016_Operators\03_Operators\Operators_03\bin\Debug\net5.0\03_Operators.exe
+C:\Users\artur\OneDrive\Desktop\C#\OOP\016_Operators\03_Operators\Operators_03\bin\Debug\net5.0\03_Operators.deps.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\016_Operators\03_Operators\Operators_03\bin\Debug\net5.0\03_Operators.runtimeconfig.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\016_Operators\03_Operators\Operators_03\bin\Debug\net5.0\03_Operators.runtimeconfig.dev.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\016_Operators\03_Operators\Operators_03\bin\Debug\net5.0\03_Operators.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\016_Operators\03_Operators\Operators_03\bin\Debug\net5.0\ref\03_Operators.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\016_Operators\03_Operators\Operators_03\bin\Debug\net5.0\03_Operators.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\016_Operators\03_Operators\Operators_03\obj\Debug\net5.0\03_Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\OneDrive\Desktop\C#\OOP\016_Operators\03_Operators\Operators_03\obj\Debug\net5.0\03_Operators.AssemblyInfoInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\016_Operators\03_Operators\Operators_03\obj\Debug\net5.0\03_Operators.AssemblyInfo.cs
+C:\Users\artur\OneDrive\Desktop\C#\OOP\016_Operators\03_Operators\Operators_03\obj\Debug\net5.0\03_Operators.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\016_Operators\03_Operators\Operators_03\obj\Debug\net5.0\03_Operators.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\016_Operators\03_Operators\Operators_03\obj\Debug\net5.0\ref\03_Operators.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\016_Operators\03_Operators\Operators_03\obj\Debug\net5.0\03_Operators.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\016_Operators\03_Operators\Operators_03\obj\Debug\net5.0\03_Operators.genruntimeconfig.cache
