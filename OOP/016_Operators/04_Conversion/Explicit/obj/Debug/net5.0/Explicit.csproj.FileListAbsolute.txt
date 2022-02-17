@@ -1,0 +1,16 @@
+C:\Users\artur\OneDrive\Desktop\C#\OOP\016_Operators\04_Conversion\Explicit\bin\Debug\net5.0\Explicit.exe
+C:\Users\artur\OneDrive\Desktop\C#\OOP\016_Operators\04_Conversion\Explicit\bin\Debug\net5.0\Explicit.deps.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\016_Operators\04_Conversion\Explicit\bin\Debug\net5.0\Explicit.runtimeconfig.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\016_Operators\04_Conversion\Explicit\bin\Debug\net5.0\Explicit.runtimeconfig.dev.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\016_Operators\04_Conversion\Explicit\bin\Debug\net5.0\Explicit.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\016_Operators\04_Conversion\Explicit\bin\Debug\net5.0\ref\Explicit.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\016_Operators\04_Conversion\Explicit\bin\Debug\net5.0\Explicit.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\016_Operators\04_Conversion\Explicit\obj\Debug\net5.0\Explicit.csproj.AssemblyReference.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\016_Operators\04_Conversion\Explicit\obj\Debug\net5.0\Explicit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\OneDrive\Desktop\C#\OOP\016_Operators\04_Conversion\Explicit\obj\Debug\net5.0\Explicit.AssemblyInfoInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\016_Operators\04_Conversion\Explicit\obj\Debug\net5.0\Explicit.AssemblyInfo.cs
+C:\Users\artur\OneDrive\Desktop\C#\OOP\016_Operators\04_Conversion\Explicit\obj\Debug\net5.0\Explicit.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\016_Operators\04_Conversion\Explicit\obj\Debug\net5.0\Explicit.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\016_Operators\04_Conversion\Explicit\obj\Debug\net5.0\ref\Explicit.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\016_Operators\04_Conversion\Explicit\obj\Debug\net5.0\Explicit.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\016_Operators\04_Conversion\Explicit\obj\Debug\net5.0\Explicit.genruntimeconfig.cache
