@@ -1,0 +1,16 @@
+C:\Users\artur\OneDrive\Desktop\C#\OOP\016_Operators\02_ICloneable\ICloneableWork\bin\Debug\net5.0\ICloneableWork.exe
+C:\Users\artur\OneDrive\Desktop\C#\OOP\016_Operators\02_ICloneable\ICloneableWork\bin\Debug\net5.0\ICloneableWork.deps.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\016_Operators\02_ICloneable\ICloneableWork\bin\Debug\net5.0\ICloneableWork.runtimeconfig.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\016_Operators\02_ICloneable\ICloneableWork\bin\Debug\net5.0\ICloneableWork.runtimeconfig.dev.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\016_Operators\02_ICloneable\ICloneableWork\bin\Debug\net5.0\ICloneableWork.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\016_Operators\02_ICloneable\ICloneableWork\bin\Debug\net5.0\ref\ICloneableWork.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\016_Operators\02_ICloneable\ICloneableWork\bin\Debug\net5.0\ICloneableWork.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\016_Operators\02_ICloneable\ICloneableWork\obj\Debug\net5.0\ICloneableWork.csproj.AssemblyReference.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\016_Operators\02_ICloneable\ICloneableWork\obj\Debug\net5.0\ICloneableWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\OneDrive\Desktop\C#\OOP\016_Operators\02_ICloneable\ICloneableWork\obj\Debug\net5.0\ICloneableWork.AssemblyInfoInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\016_Operators\02_ICloneable\ICloneableWork\obj\Debug\net5.0\ICloneableWork.AssemblyInfo.cs
+C:\Users\artur\OneDrive\Desktop\C#\OOP\016_Operators\02_ICloneable\ICloneableWork\obj\Debug\net5.0\ICloneableWork.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\016_Operators\02_ICloneable\ICloneableWork\obj\Debug\net5.0\ICloneableWork.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\016_Operators\02_ICloneable\ICloneableWork\obj\Debug\net5.0\ref\ICloneableWork.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\016_Operators\02_ICloneable\ICloneableWork\obj\Debug\net5.0\ICloneableWork.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\016_Operators\02_ICloneable\ICloneableWork\obj\Debug\net5.0\ICloneableWork.genruntimeconfig.cache
