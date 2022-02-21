@@ -1,0 +1,15 @@
+C:\Users\artur\OneDrive\Desktop\C#\OOP\017_Linq\Anonymous\05_Anonymous\bin\Debug\net5.0\05_Anonymous.exe
+C:\Users\artur\OneDrive\Desktop\C#\OOP\017_Linq\Anonymous\05_Anonymous\bin\Debug\net5.0\05_Anonymous.deps.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\017_Linq\Anonymous\05_Anonymous\bin\Debug\net5.0\05_Anonymous.runtimeconfig.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\017_Linq\Anonymous\05_Anonymous\bin\Debug\net5.0\05_Anonymous.runtimeconfig.dev.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\017_Linq\Anonymous\05_Anonymous\bin\Debug\net5.0\05_Anonymous.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\017_Linq\Anonymous\05_Anonymous\bin\Debug\net5.0\ref\05_Anonymous.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\017_Linq\Anonymous\05_Anonymous\bin\Debug\net5.0\05_Anonymous.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\017_Linq\Anonymous\05_Anonymous\obj\Debug\net5.0\05_Anonymous.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\OneDrive\Desktop\C#\OOP\017_Linq\Anonymous\05_Anonymous\obj\Debug\net5.0\05_Anonymous.AssemblyInfoInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\017_Linq\Anonymous\05_Anonymous\obj\Debug\net5.0\05_Anonymous.AssemblyInfo.cs
+C:\Users\artur\OneDrive\Desktop\C#\OOP\017_Linq\Anonymous\05_Anonymous\obj\Debug\net5.0\05_Anonymous.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\017_Linq\Anonymous\05_Anonymous\obj\Debug\net5.0\05_Anonymous.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\017_Linq\Anonymous\05_Anonymous\obj\Debug\net5.0\ref\05_Anonymous.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\017_Linq\Anonymous\05_Anonymous\obj\Debug\net5.0\05_Anonymous.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\017_Linq\Anonymous\05_Anonymous\obj\Debug\net5.0\05_Anonymous.genruntimeconfig.cache
