@@ -1,0 +1,15 @@
+C:\Users\artur\OneDrive\Desktop\C#\OOP\017_Linq\LINQ\10_LINQ\bin\Debug\net5.0\10_LINQ.exe
+C:\Users\artur\OneDrive\Desktop\C#\OOP\017_Linq\LINQ\10_LINQ\bin\Debug\net5.0\10_LINQ.deps.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\017_Linq\LINQ\10_LINQ\bin\Debug\net5.0\10_LINQ.runtimeconfig.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\017_Linq\LINQ\10_LINQ\bin\Debug\net5.0\10_LINQ.runtimeconfig.dev.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\017_Linq\LINQ\10_LINQ\bin\Debug\net5.0\10_LINQ.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\017_Linq\LINQ\10_LINQ\bin\Debug\net5.0\ref\10_LINQ.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\017_Linq\LINQ\10_LINQ\bin\Debug\net5.0\10_LINQ.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\017_Linq\LINQ\10_LINQ\obj\Debug\net5.0\10_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\OneDrive\Desktop\C#\OOP\017_Linq\LINQ\10_LINQ\obj\Debug\net5.0\10_LINQ.AssemblyInfoInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\017_Linq\LINQ\10_LINQ\obj\Debug\net5.0\10_LINQ.AssemblyInfo.cs
+C:\Users\artur\OneDrive\Desktop\C#\OOP\017_Linq\LINQ\10_LINQ\obj\Debug\net5.0\10_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\017_Linq\LINQ\10_LINQ\obj\Debug\net5.0\10_LINQ.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\017_Linq\LINQ\10_LINQ\obj\Debug\net5.0\ref\10_LINQ.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\017_Linq\LINQ\10_LINQ\obj\Debug\net5.0\10_LINQ.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\017_Linq\LINQ\10_LINQ\obj\Debug\net5.0\10_LINQ.genruntimeconfig.cache
