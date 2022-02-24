@@ -1,0 +1,13 @@
+C:\Users\artur\OneDrive\Desktop\C#\OOP\017_Linq\Dynamic\05_Dynamic\bin\Debug\netcoreapp3.1\05_Dynamic.exe
+C:\Users\artur\OneDrive\Desktop\C#\OOP\017_Linq\Dynamic\05_Dynamic\bin\Debug\netcoreapp3.1\05_Dynamic.deps.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\017_Linq\Dynamic\05_Dynamic\bin\Debug\netcoreapp3.1\05_Dynamic.runtimeconfig.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\017_Linq\Dynamic\05_Dynamic\bin\Debug\netcoreapp3.1\05_Dynamic.runtimeconfig.dev.json
+C:\Users\artur\OneDrive\Desktop\C#\OOP\017_Linq\Dynamic\05_Dynamic\bin\Debug\netcoreapp3.1\05_Dynamic.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\017_Linq\Dynamic\05_Dynamic\bin\Debug\netcoreapp3.1\05_Dynamic.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\017_Linq\Dynamic\05_Dynamic\obj\Debug\netcoreapp3.1\05_Dynamic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\OneDrive\Desktop\C#\OOP\017_Linq\Dynamic\05_Dynamic\obj\Debug\netcoreapp3.1\05_Dynamic.AssemblyInfoInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\017_Linq\Dynamic\05_Dynamic\obj\Debug\netcoreapp3.1\05_Dynamic.AssemblyInfo.cs
+C:\Users\artur\OneDrive\Desktop\C#\OOP\017_Linq\Dynamic\05_Dynamic\obj\Debug\netcoreapp3.1\05_Dynamic.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Desktop\C#\OOP\017_Linq\Dynamic\05_Dynamic\obj\Debug\netcoreapp3.1\05_Dynamic.dll
+C:\Users\artur\OneDrive\Desktop\C#\OOP\017_Linq\Dynamic\05_Dynamic\obj\Debug\netcoreapp3.1\05_Dynamic.pdb
+C:\Users\artur\OneDrive\Desktop\C#\OOP\017_Linq\Dynamic\05_Dynamic\obj\Debug\netcoreapp3.1\05_Dynamic.genruntimeconfig.cache
